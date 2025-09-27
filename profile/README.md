@@ -5,6 +5,7 @@
   <a href="https://discord.gg/sui"><img src="https://img.shields.io/badge/Chat-Discord-5865F2?style=flat-square&logo=discord" /></a>
   <a href="https://blog.sui.io/"><img src="https://img.shields.io/badge/Blog-Sui-black?style=flat-square&logo=hashnode" /></a>
   <a href="https://x.com/SuiNetwork"><img src="https://img.shields.io/badge/Follow-@SuiNetwork-1DA1F2?style=flat-square&logo=twitter" /></a>
+  <a href="https://x.com/Mysten_Labs"><img src="https://img.shields.io/badge/Follow-@Mysten__Labs-1DA1F2?style=flat-square&logo=x" /></a>
 </p>
 
 수이 개발자를 위한 대표 자료와 링크 모음입니다.  
