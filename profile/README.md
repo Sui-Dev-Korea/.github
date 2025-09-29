@@ -24,6 +24,10 @@
 - 🧪 [MystenLabs Examples](https://github.com/MystenLabs/sui/tree/main/examples)  
 - 💡 [App Examples](https://docs.sui.io/guides/developer/app-examples)  
 
+## 🧪 엔노키 (Ennoki)
+- 🌐 [메인 페이지](https://enoki.mystenlabs.com/)  
+- 📚 [개발 문서](https://docs.enoki.mystenlabs.com/)
+
 ## 🔑 zkLogin
 - 🌐 [메인 페이지](https://sui.io/zklogin)  
 - 📚 [개발 문서](https://docs.sui.io/concepts/cryptography/zklogin) — 소셜 로그인을 통한 온체인 계정 생성  
