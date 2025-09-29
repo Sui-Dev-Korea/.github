@@ -6,6 +6,7 @@
   <a href="https://blog.sui.io/"><img src="https://img.shields.io/badge/Blog-Sui-black?style=flat-square&logo=hashnode" /></a>
   <a href="https://x.com/SuiNetwork"><img src="https://img.shields.io/badge/Follow-@SuiNetwork-1DA1F2?style=flat-square&logo=twitter" /></a>
   <a href="https://x.com/Mysten_Labs"><img src="https://img.shields.io/badge/Follow-@Mysten__Labs-1DA1F2?style=flat-square&logo=x" /></a>
+  <a href="https://www.youtube.com/channel/UCI7pCUVxSLcndVhPpZOwZgg"><img src="https://img.shields.io/badge/YouTube-SuiFoundation-red?style=flat-square&logo=youtube" /></a>
 </p>
 
 수이 개발자를 위한 대표 자료와 링크 모음입니다.  
@@ -56,6 +57,18 @@
 - 📰 [소개](https://blog.sui.io/sui-stack-messaging-sdk/) — 온체인 메시징 서비스  
 - 💻 [GitHub](https://github.com/MystenLabs/sui-stack-messaging-sdk)  
 
+## 🎓 교육 / 워크숍 프로그램
+
+- **Encode x Sui Educate (2023)** — Encode Club과 Sui 재단이 함께 진행한 6세션 교육 시리즈. 워크숍 녹화 영상 및 요약 자료 제공.
+  - [공식 페이지](https://www.encode.club/sui-educate)  
+  - [시리즈 요약 / 발표](https://www.blog.encode.club/encode-x-sui-educate-series-summary-40fec740dcad)  
+
+## 📄 RFP (Request for Proposals)
+
+- [RFP 소개](https://blog.sui.io/grants-rfp-process/) — 수이 재단의 그랜트 & RFP 프로세스 설명  
+- [Sui RFP](https://sui.io/request-for-proposals) — 수이 생태계 관련 제안 요청  
+- [Walrus RFP](https://www.walrus.xyz/rfp) — Walrus 관련 제안 요청  
+
 ## 👥 커뮤니티
 - 💬 [Sui Discord](https://discord.gg/sui)  
 - 🗨️ [Sui Forum](https://forums.sui.io/)  
@@ -67,5 +80,21 @@
 - [@SuiNetwork](https://x.com/SuiNetwork)  
 - [@Mysten_Labs](https://x.com/Mysten_Labs)  
 - [@WalrusProtocol](https://x.com/WalrusProtocol)  
+
+## 🏆 글로벌 해커톤 (연도별)
+
+### Sui Overflow
+- [메인 페이지](https://sui.io/overflow)
+- [2025 수상작 발표](https://blog.sui.io/2025-sui-overflow-hackathon-winners/)  
+- [2024 수상작 발표](https://blog.sui.io/2024-sui-overflow-hackathon-winners/)  
+
+### 기타 글로벌 해커톤
+#### 2023
+- [Sui x KuCoin Labs Summer Hackathon](https://blog.sui.io/hackathon-winners/)  
+
+### Walrus 해커톤
+#### 2024
+- [Walrus Devnet Hackathon: Breaking the Ice](https://info.breakingtheice.sui.io/)
+
 
 👉 새로운 링크나 자료가 생기면 PR로 추가해 주세요!
