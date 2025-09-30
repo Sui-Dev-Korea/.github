@@ -100,5 +100,9 @@
 #### 2024
 - [Walrus Devnet Hackathon: Breaking the Ice](https://info.breakingtheice.sui.io/)
 
+## 🧾 번역 & 용어 사전
+- 📚 [TTA 정보통신용어사전](https://terms.tta.or.kr/main.do) — 한국정보통신기술협회 공식 용어 정리
+- 🌐 [Crowdin](https://crowdin.com/) — 문서 번역 워크플로우 (테스트 중)
+- 🌐 [GitLocalize](https://gitlocalize.com/) — 문서 번역 워크플로우 (테스트 중)
 
 👉 새로운 링크나 자료가 생기면 PR로 추가해 주세요!
