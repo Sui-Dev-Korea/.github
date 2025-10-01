@@ -24,7 +24,7 @@
 - 🧪 [MystenLabs Examples](https://github.com/MystenLabs/sui/tree/main/examples)  
 - 💡 [App Examples](https://docs.sui.io/guides/developer/app-examples)  
 
-## 🧪 엔노키 (Ennoki)
+## 🧪 이노키 (Enoki)
 - 🌐 [메인 페이지](https://enoki.mystenlabs.com/)  
 - 📚 [개발 문서](https://docs.enoki.mystenlabs.com/)
 
@@ -36,7 +36,7 @@
 - 🌐 [메인 페이지](https://suins.io/)  
 - 📚 [개발 문서](https://docs.suins.io/)  
 
-## 📦 무브레지스트리 (Move Registry)
+## 📦 무브 레지스트리 (Move Registry)
 - 🌐 [메인 페이지](https://www.moveregistry.com/)  
 - 📚 [개발 문서](https://docs.suins.io/move-registry)  
 - 💻 [GitHub](https://github.com/MystenLabs/mvr) — 온체인 Move 패키지 레지스트리  
