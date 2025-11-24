@@ -162,9 +162,6 @@
 - watermark → 워터마크
 - GameFi → 게임파이
 - governance token → 거버넌스 토큰
-- initial coin offering (ICO) → 초기 코인 공개 (ICO)
-- token generation event (TGE) → 토큰 생성 이벤트 (TGE)
-- verifiable random function (VRF) → 검증 가능한 난수 함수 (VRF)
 - vesting → 베스팅
 - zero-knowledge proof → 영지식 증명
 - zero-knowledge succinct non-interactive argument of knowledge (zk-SNARK) → 영지식 간결 비대화형 지식 증명 (zk-SNARK)
