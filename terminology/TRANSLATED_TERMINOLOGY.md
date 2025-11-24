@@ -71,9 +71,9 @@
 - immediate vesting → 즉시 베스팅
 - decentralized application (dApp) → 탈중앙화 애플리케이션 (dApp)
 - inlay hint → 인레이 힌트
-- pending validator → 대기 중인 밸리데이터
-- validator candidate → 밸리데이터 후보
-- validator set → 밸리데이터 세트
+- pending validator → 대기 중인 validator
+- validator candidate → validator 후보
+- validator set → validator 세트
 - latency → 지연 시간
 - limit order → 지정가 주문
 - linear vesting → 선형 베스팅
