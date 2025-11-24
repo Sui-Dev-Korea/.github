@@ -2,8 +2,8 @@
 
 - blockchain → 블록체인
 - architecture → 아키텍처
-- attestation → 어테스테이션
-- attestation document → 어테스테이션 문서
+- attestation → 증명
+- attestation document → 증명 문서
 - asset tokenization → 자산 토큰화
 - Archival Service → 아카이브 서비스
 - Archival Store → 아카이브 스토어
