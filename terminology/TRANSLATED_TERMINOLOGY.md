@@ -40,7 +40,6 @@
 - indexer → 인덱서
 - account → 계정
 - finality / finalized / finalizing → 확정성/확정된/확정
-- faucet → 파우셋
 - feature flag → 기능 플래그
 - field mask → 필드 마스크
 - base asset → 베이스 자산
@@ -48,7 +47,6 @@
 - call stack → 호출 스택
 - cliff vesting → 클리프 베스팅
 - commission rate → 수수료율
--  → 커런시 이니셜라이저
 - custom indexer → 커스텀 인덱서
 - custom RPC endpoint → 커스텀 RPC 엔드포인트
 - custodial wallet → 커스터디 지갑
@@ -81,7 +79,6 @@
 - linear vesting → 선형 베스팅
 - load balancer → 로드 밸런서
 - local network → 로컬 네트워크
-- local faucet → 로컬 파우셋
 - liquid staking → 리퀴드 스테이킹
 - bridge committee → 브리지 위원회
 - manifest → 매니페스트

@@ -145,3 +145,5 @@
 - dual-signed transaction → dual-signed transaction
 - programmable transaction block (PTB) → programmable transaction block (PTB)
 - transaction → transaction
+- local faucet → local faucet
+- faucet → faucet
