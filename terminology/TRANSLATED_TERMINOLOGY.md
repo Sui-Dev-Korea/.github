@@ -96,7 +96,7 @@
 - on-chain time → 온체인 시간
 - One-Time Witness (OTW) → 원타임 위트니스 (OTW)
 - object store → 오브젝트 스토어
-- key scheme → 키 스킴
+- key scheme → 키 체계
 - mnemonic phrase → 니모닉 구문
 - reference gas price → 참조 가스 가격
 - retention → 리텐션
@@ -156,7 +156,7 @@
 - intent signing → 인텐트 서명
 - key derivation → 키 파생
 - key derivation path → 키 파생 경로
-- key derivation scheme → 키 파생 방식
+- key derivation scheme → 키 파생 체계
 - mnemonic → 니모닉
 - multi-party computation (MPC) →  (다자간 계산, Multi-Party Computation, MPC)
 - multi-signature (multisig) → 다중 서명 (멀티시그)
