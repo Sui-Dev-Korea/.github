@@ -142,3 +142,4 @@
 - Kiosk Apps API → Kiosk Apps API
 - SuiJSON → SuiJSON
 - suiup → suiup
+- address -> address
