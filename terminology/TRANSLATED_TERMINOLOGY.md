@@ -130,7 +130,7 @@
 - transfer request → 전송 요청
 - transaction digest → 트랜잭션 다이제스트
 - trust model → 신뢰 모델
-- trusted computing base → 신뢰할 수 있는 컴퓨팅 기반
+- trusted computing base → 신뢰 컴퓨팅 기반
 - trusted execution environment (TEE) → 신뢰 실행 환경 (TEE)
 - sequential pipeline → 시퀀셜 파이프라인
 - serverless function → 서버리스 함수
