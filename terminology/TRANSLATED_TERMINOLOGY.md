@@ -49,7 +49,7 @@
 - call stack → 호출 스택
 - cliff vesting → 클리프 베스팅
 - commission rate → 수수료율
-- CurrencyInitializer → 커런시 이니셜라이저
+-  → 커런시 이니셜라이저
 - custom indexer → 커스텀 인덱서
 - custom RPC endpoint → 커스텀 RPC 엔드포인트
 - custodial wallet → 커스터디 지갑
