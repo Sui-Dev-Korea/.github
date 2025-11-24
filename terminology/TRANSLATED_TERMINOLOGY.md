@@ -128,7 +128,6 @@
 - concurrent pipeline → 컨커런트 파이프라인
 - package → 패키지
 - genesis → 제네시스
-
 - passkey → 패스키
 - pull request (PR) → 풀 리퀘스트 (PR)
 - performance-based vesting → 성과 기반 베스팅
@@ -162,9 +161,9 @@
 - zero-knowledge succinct non-interactive argument of knowledge (zk-SNARK) → 영지식 간결 비대화형 지식 증명 (zk-SNARK)
 - Metadata → 메타데이터
 - checkpoints → 체크포인트
-- ownership -> 소유권
-- embed -> 임베드
-- mint -> 민트
-- swap -> 스왑
-- custody -> 수탁
-- overhead->오버헤드
+- ownership → 소유권
+- embed → 임베드
+- mint → 민트
+- swap → 스왑
+- custody → 수탁
+- overhead → 오버헤드
