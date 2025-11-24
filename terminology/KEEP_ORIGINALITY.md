@@ -190,7 +190,6 @@
 - Playtron GameOS SDK → Playtron GameOS SDK
 - PoolRegistry → PoolRegistry
 - ReadonlyWalletAccount → ReadonlyWalletAccount
-- remote PACT attestation → remote PACT attestation
 - SuiLink → SuiLink
 - SIP → SIP
 - SUILINK_PACKAGE_ID_ETH_SOL → SUILINK_PACKAGE_ID_ETH_SOL
