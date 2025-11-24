@@ -14,7 +14,6 @@
 - bridging → 브리징
 - authenticator → 인증 장치
 - checkpoint → 체크포인트
-- checkpoint store → 체크포인트 스토어
 - consensus proposals → 합의 제안
 - consensus sequencing → 합의 시퀀싱
 - Contributor Covenant → 컨트리뷰터 커버넌트
