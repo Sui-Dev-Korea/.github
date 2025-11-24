@@ -171,3 +171,4 @@
 - vesting → 베스팅
 - zero-knowledge proof → 영지식 증명
 - zero-knowledge succinct non-interactive argument of knowledge (zk-SNARK) → 영지식 간결 비대화형 지식 증명 (zk-SNARK)
+- Metadata → 메타데이터

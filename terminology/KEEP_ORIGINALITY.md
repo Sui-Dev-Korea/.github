@@ -17,7 +17,6 @@
 - enclave → enclave
 - global limiter → global limiter
 - Blob → Blob
-- Metadata → Metadata
 - Mermaid → Mermaid
 - Move 2024 → Move 2024
 - Move.lock → Move.lock
