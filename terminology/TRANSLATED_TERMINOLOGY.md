@@ -138,7 +138,7 @@
 - delegated proof-of-stake (DPoS) → 위임 지분 증명 (DPoS)
 - decentralized autonomous organization (DAO) → 탈중앙화 자율 조직 (DAO)
 - derivation path → 파생 경로
-- derived object → 파생 객체
+- derived object → 파생 object
 - domain separator → 도메인 구분자
 - exchange rate → 환율
 - intent → 인텐트
