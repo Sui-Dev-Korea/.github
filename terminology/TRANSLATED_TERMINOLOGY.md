@@ -36,7 +36,6 @@
 - module → 모듈
   - 예외: 링크 있을 때는 원문 module 유지
 - sequence/sequencing/sequencer → 시퀀스/시퀀싱/시퀀서
-- Full Node Operator →  Full Node 운영자
 - ingestion → 인제션
 - indexer → 인덱서
 - account → 계정
