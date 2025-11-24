@@ -127,7 +127,6 @@
 - serverless function → 서버리스 함수
 - concurrent pipeline → 컨커런트 파이프라인
 - package → 패키지
-- package object → 패키지 객체
 - genesis → 제네시스
 - party object → 파티 오브젝트
 - passkey → 패스키
