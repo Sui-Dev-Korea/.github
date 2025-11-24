@@ -2,7 +2,6 @@
 
 - validator → validator
 - epoch →epoch
-- checkpoints →checkpoints
 - pruning →pruning
 - capability/ability→ capability/ability
 - wrapped → wrapped
