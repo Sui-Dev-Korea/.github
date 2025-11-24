@@ -92,7 +92,6 @@
 - nonce → 논스
 - on-chain time → 온체인 시간
 - One-Time Witness (OTW) → 원타임 위트니스 (OTW)
-- object store → 오브젝트 스토어
 - key scheme → 키 체계
 - mnemonic phrase → 니모닉 구문
 - reference gas price → 참조 가스 가격
