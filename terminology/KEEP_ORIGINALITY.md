@@ -1,7 +1,6 @@
 # Keep the original text as is (do not translate it); if it appears at the beginning of a sentence, capitalize the first letter
 
 - validator → validator
-- transaction →transaction
 - epoch →epoch
 - checkpoints →checkpoints
 - pruning →pruning
@@ -142,4 +141,9 @@
 - Kiosk Apps API → Kiosk Apps API
 - SuiJSON → SuiJSON
 - suiup → suiup
-- address -> address
+- address → address
+- sponsored transaction → sponsored transaction
+- transaction digest → transaction digest
+- dual-signed transaction → dual-signed transaction
+- programmable transaction block (PTB) → programmable transaction block (PTB)
+- transaction → transaction

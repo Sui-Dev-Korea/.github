@@ -108,7 +108,6 @@
 - reproducible build → 재현 가능한 빌드
 - reconfiguration → 재구성
 - soul-bound → 소울바운드
-- sponsored transaction → 스폰서된 트랜잭션
 - stablecoin → 스테이블코인
 - self-custodial wallet → 셀프 커스터디 지갑
 - stake reward distribution rule → 스테이크 보상 분배 규칙
@@ -127,7 +126,6 @@
 - transfer policy → 전송 정책
 - transfer receipt → 전송 영수증
 - transfer request → 전송 요청
-- transaction digest → 트랜잭션 다이제스트
 - trust model → 신뢰 모델
 - trusted computing base → 신뢰 컴퓨팅 기반
 - trusted execution environment (TEE) → 신뢰 실행 환경 (TEE)
@@ -141,10 +139,8 @@
 - passkey → 패스키
 - pull request (PR) → 풀 리퀘스트 (PR)
 - performance-based vesting → 성과 기반 베스팅
-- programmable transaction block (PTB) → 프로그래머블 트랜잭션 블록 (PTB)
 - platform configuration register (PCR) → 플랫폼 구성 레지스터 (PCR)
 - decision rule → 결정 규칙
-- dual-signed transaction → 이중 서명 트랜잭션
 - delegated proof-of-stake (DPoS) → 위임 지분 증명 (DPoS)
 - decentralized autonomous organization (DAO) → 탈중앙화 자율 조직 (DAO)
 - derivation path → 파생 경로
