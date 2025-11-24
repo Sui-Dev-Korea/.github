@@ -128,7 +128,7 @@
 - concurrent pipeline → 컨커런트 파이프라인
 - package → 패키지
 - genesis → 제네시스
-- party object → 파티 오브젝트
+
 - passkey → 패스키
 - pull request (PR) → 풀 리퀘스트 (PR)
 - performance-based vesting → 성과 기반 베스팅
@@ -137,7 +137,6 @@
 - delegated proof-of-stake (DPoS) → 위임 지분 증명 (DPoS)
 - decentralized autonomous organization (DAO) → 탈중앙화 자율 조직 (DAO)
 - derivation path → 파생 경로
-- derived object → 파생 object
 - domain separator → 도메인 구분자
 - exchange rate → 환율
 - intent → 인텐트

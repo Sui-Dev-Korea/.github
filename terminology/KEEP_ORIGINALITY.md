@@ -145,3 +145,5 @@
 - verifiable random function (VRF) → VRF
 - multisig → multisig
 - package object → package object 
+- party object → party object
+- derived object → derived object
