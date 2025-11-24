@@ -84,7 +84,6 @@
 - market order → 시장가 주문
 - mid price → 중간 가격
 - milestone-based vesting → 마일스톤 기반 베스팅
-- multisig → 멀티시그
 - Move package → Move 패키지
 - Move testing framework → Move 테스트 프레임워크
 - non-fungible token (NFT) → 대체 불가능 토큰 (NFT)
@@ -150,7 +149,7 @@
 - key derivation scheme → 키 파생 체계
 - mnemonic → 니모닉
 - multi-party computation (MPC) →  (다자간 계산, Multi-Party Computation, MPC)
-- multi-signature (multisig) → 다중 서명 (멀티시그)
+- multi-signature (multisig) → 다중 서명
 - liquidity token → 유동성 토큰
 - offline signing → 오프라인 서명
 - quorum → 정족수
@@ -165,3 +164,9 @@
 - zero-knowledge succinct non-interactive argument of knowledge (zk-SNARK) → 영지식 간결 비대화형 지식 증명 (zk-SNARK)
 - Metadata → 메타데이터
 - checkpoints → 체크포인트
+- ownership -> 소유권
+- embed -> 임베드
+- mint -> 민트
+- swap -> 스왑
+- custody -> 수탁
+- overhead->오버헤드

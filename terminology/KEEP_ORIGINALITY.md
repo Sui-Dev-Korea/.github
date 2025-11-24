@@ -143,3 +143,4 @@
 - initial coin offering (ICO) → ICO
 - token generation event (TGE) → TGE
 - verifiable random function (VRF) → VRF
+- multisig → multisig
