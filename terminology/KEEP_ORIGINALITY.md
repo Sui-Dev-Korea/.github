@@ -148,3 +148,4 @@
 - party object → party object
 - derived object → derived object
 - zero-knowledge succinct non-interactive argument of knowledge (zk-SNARK) → zk-SNARK
+- transfer policy → transfer policy

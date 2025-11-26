@@ -117,7 +117,6 @@
 - supermajority → 초과 정족수
 - tallying rule → 집계 규칙
 - throughput → 처리량
-- transfer policy → 전송 정책
 - transfer receipt → 전송 영수증
 - transfer request → 전송 요청
 - trust model → 신뢰 모델
