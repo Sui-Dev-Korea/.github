@@ -145,7 +145,7 @@
 - key derivation path → 키 파생 경로
 - key derivation scheme → 키 파생 체계
 - mnemonic → 니모닉
-- multi-party computation (MPC) →  (다자간 계산, Multi-Party Computation, MPC)
+- multi-party computation (MPC) →  다자간 계산 (MPC)
 - multi-signature (multisig) → 다중 서명
 - liquidity token → 유동성 토큰
 - offline signing → 오프라인 서명
