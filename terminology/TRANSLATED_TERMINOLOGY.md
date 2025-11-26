@@ -78,7 +78,7 @@
 - linear vesting → 선형 베스팅
 - load balancer → 로드 밸런서
 - local network → 로컬 네트워크
-- liquid staking → 리퀴드 스테이킹
+
 - bridge committee → 브리지 위원회
 - manifest → 매니페스트
 - market order → 시장가 주문
@@ -105,7 +105,6 @@
 - stablecoin → 스테이블코인
 - self-custodial wallet → 셀프 커스터디 지갑
 - stake reward distribution rule → 스테이크 보상 분배 규칙
-- staking pool → 스테이킹 풀
 - state snapshot → 상태 스냅샷
 - source view → 소스 뷰
 - storage price → 스토리지 가격
