@@ -167,4 +167,5 @@
 - swap → 스왑
 - custody → 수탁
 - overhead → 오버헤드
-- signature -> 서명
+- signature → 서명
+- sponsor → 스폰서
