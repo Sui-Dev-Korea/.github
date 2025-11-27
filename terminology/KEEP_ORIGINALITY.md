@@ -105,7 +105,6 @@
 - AWS → AWS
 - Cloudflare → Cloudflare
 - download_private.sh → download_private.sh
-- download_and_verify_private_binary.sh → download_and_verify_private_binary.sh
 - HAProxy → HAProxy
 - GCP Cloud Armor → GCP Cloud Armor
 - RocksDB → RocksDB
@@ -144,7 +143,7 @@
 - token generation event (TGE) → TGE
 - verifiable random function (VRF) → VRF
 - multisig → multisig
-- package object → package object 
+- package object → package object
 - party object → party object
 - derived object → derived object
 - zero-knowledge succinct non-interactive argument of knowledge (zk-SNARK) → zk-SNARK
