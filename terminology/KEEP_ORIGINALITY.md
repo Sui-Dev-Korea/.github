@@ -150,3 +150,4 @@
 - transfer policy → transfer policy
 - liquid staking → liquid staking
 - staking pool → staking pool
+- enum → enum
