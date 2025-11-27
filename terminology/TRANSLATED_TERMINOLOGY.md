@@ -1,0 +1,169 @@
+# Translated Glossary (Strictly Enforced)
+
+- blockchain → 블록체인
+- architecture → 아키텍처
+- attestation → 증명
+- attestation document → 증명 문서
+- asset tokenization → 자산 토큰화
+- Archival Service → 아카이브 서비스
+- Archival Store → 아카이브 스토어
+- annual percentage yield (APY) → 연간 수익률 (APY)
+- backpressure → 백프레셔
+- backloaded vesting → 백로드형 베스팅
+- bridge → 브리지
+- bridging → 브리징
+- authenticator → 인증 장치
+- checkpoint → 체크포인트
+- consensus proposals → 합의 제안
+- consensus sequencing → 합의 시퀀싱
+- Contributor Covenant → 컨트리뷰터 커버넌트
+- distributed key generation (DKG) → 분산 키 생성 (DKG)
+- dry run → 드라이 런
+- fallback archive → 폴백 아카이브
+- certificate authority → 인증 기관
+- certificate chain → 인증서 체인
+- mechanism → 메커니즘
+- coin → 코인
+- logic → 로직
+- commit → 커밋
+- binary → 바이너리
+- entity → 엔티티
+- ephemeral public key → 임시 공개 키
+- upgrade → 업그레이드
+- framework → 프레임워크
+  - 예외: the Sui framework → 원문 그대로 the Sui framework
+- module → 모듈
+  - 예외: 링크 있을 때는 원문 module 유지
+- sequence/sequencing/sequencer → 시퀀스/시퀀싱/시퀀서
+- ingestion → 수집
+- indexer → 인덱서
+- account → 계정
+- finality / finalized / finalizing → 확정성/확정된/확정
+- feature flag → 기능 플래그
+- field mask → 필드 마스크
+- base asset → 베이스 자산
+- command palette → 명령 팔레트
+- call stack → 호출 스택
+- cliff vesting → 클리프 베스팅
+- commission rate → 수수료율
+- custom indexer → 커스텀 인덱서
+- custom RPC endpoint → 커스텀 RPC 엔드포인트
+- custodial wallet → 커스터디 지갑
+- database snapshot → 데이터베이스 스냅샷
+- disassembly view → 디스어셈블리 뷰
+- distributed tracing → 분산 트레이싱
+- formal snapshot → 포멀 스냅샷
+- execution trace → 실행 트레이스
+- gas budget → 가스 예산
+- gas fee → 가스 수수료
+- gas price → 가스 가격
+- gas price survey → 가스 가격 조사
+- graded vesting → 점진적 베스팅
+- gas smashing → 가스 스매싱
+- gas station → 가스 스테이션
+- fractional NFT → 분할 NFT
+- gas station operator → 가스 스테이션 운영자
+- gas sponsor → 가스 스폰서
+- full node → 풀 노드
+- health check → 헬스 체크
+- hybrid vesting → 하이브리드 베스팅
+- immediate vesting → 즉시 베스팅
+- decentralized application (dApp) → 탈중앙화 애플리케이션 (dApp)
+- inlay hint → 인레이 힌트
+- pending validator → 대기 중인 validator
+- validator candidate → validator 후보
+- validator set → validator 세트
+- latency → 지연 시간
+- limit order → 지정가 주문
+- linear vesting → 선형 베스팅
+- load balancer → 로드 밸런서
+- local network → 로컬 네트워크
+
+- bridge committee → 브리지 위원회
+- manifest → 매니페스트
+- market order → 시장가 주문
+- mid price → 중간 가격
+- milestone-based vesting → 마일스톤 기반 베스팅
+- Move package → Move 패키지
+- Move testing framework → Move 테스트 프레임워크
+- non-fungible token (NFT) → 대체 불가능 토큰 (NFT)
+- nonce → 논스
+- on-chain time → 온체인 시간
+- One-Time Witness (OTW) → 원타임 위트니스 (OTW)
+- key scheme → 키 체계
+- mnemonic phrase → 니모닉 구문
+- reference gas price → 참조 가스 가격
+- retention → 리텐션
+- retention policy → 리텐션 정책
+- retention window → 리텐션 윈도우
+- relying party (RP) → 신뢰 당사자 (RP)
+- rate limit → 속도 제한
+- secret recovery phrase → 비밀 복구 구문
+- reproducible build → 재현 가능한 빌드
+- reconfiguration → 재구성
+- soul-bound → 소울바운드
+- stablecoin → 스테이블코인
+- self-custodial wallet → 셀프 커스터디 지갑
+- stake reward distribution rule → 스테이크 보상 분배 규칙
+- state snapshot → 상태 스냅샷
+- source view → 소스 뷰
+- storage price → 스토리지 가격
+- storage rebate → 스토리지 리베이트
+- storage fund → 스토리지 기금
+- streaming API → 스트리밍 API
+- structured logging → 구조화 로깅
+- subscription API → 구독 API
+- supermajority → 초과 정족수
+- tallying rule → 집계 규칙
+- throughput → 처리량
+- transfer receipt → 전송 영수증
+- transfer request → 전송 요청
+- trust model → 신뢰 모델
+- trusted computing base → 신뢰 컴퓨팅 기반
+- trusted execution environment (TEE) → 신뢰 실행 환경 (TEE)
+- sequential pipeline → 시퀀셜 파이프라인
+- serverless function → 서버리스 함수
+- concurrent pipeline → 컨커런트 파이프라인
+- package → 패키지
+- genesis → 제네시스
+- passkey → 패스키
+- pull request (PR) → 풀 리퀘스트 (PR)
+- performance-based vesting → 성과 기반 베스팅
+- platform configuration register (PCR) → 플랫폼 구성 레지스터 (PCR)
+- decision rule → 결정 규칙
+- delegated proof-of-stake (DPoS) → 위임 지분 증명 (DPoS)
+- decentralized autonomous organization (DAO) → 탈중앙화 자율 조직 (DAO)
+- derivation path → 파생 경로
+- domain separator → 도메인 구분자
+- exchange rate → 환율
+- intent → 인텐트
+- intent message → 인텐트 메시지
+- intent signing → 인텐트 서명
+- key derivation → 키 파생
+- key derivation path → 키 파생 경로
+- key derivation scheme → 키 파생 체계
+- mnemonic → 니모닉
+- multi-party computation (MPC) →  다자간 계산 (MPC)
+- multi-signature (multisig) → 다중 서명
+- liquidity token → 유동성 토큰
+- offline signing → 오프라인 서명
+- quorum → 정족수
+- threshold signature → 임계값 서명
+- page token → 페이지 토큰
+- vesting strategy → 베스팅 전략
+- watermark → 워터마크
+- GameFi → 게임파이
+- governance token → 거버넌스 토큰
+- vesting → 베스팅
+- zero-knowledge proof → 영지식 증명
+- zero-knowledge succinct non-interactive argument of knowledge (zk-SNARK) → 영지식 간결 비대화형 지식 증명 (zk-SNARK)
+- Metadata → 메타데이터
+- checkpoints → 체크포인트
+- ownership → 소유권
+- embed → 임베드
+- mint → 민트
+- swap → 스왑
+- custody → 수탁
+- overhead → 오버헤드
+- signature → 서명
+- sponsor → 스폰서

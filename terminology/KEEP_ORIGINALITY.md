@@ -1,0 +1,152 @@
+# Keep the original text as is (do not translate it); if it appears at the beginning of a sentence, capitalize the first letter
+
+- validator → validator
+- epoch →epoch
+- pruning →pruning
+- capability/ability→ capability/ability
+- wrapped → wrapped
+- stake/staking → stake/staking
+- object → object
+- address-owned → address-owned
+- dynamic NFT → dynamic NFT
+- dynamic fields → dynamic fields
+- dynamic display → dynamic display
+- composable / composability → composable / composability
+- wrap/wrapped/wrapping/unwrap/wrapper → wrap/wrapped/wrapping/unwrap/wrapper
+- enclave → enclave
+- global limiter → global limiter
+- Blob → Blob
+- Mermaid → Mermaid
+- Move 2024 → Move 2024
+- Move.lock → Move.lock
+- Move.toml → Move.toml
+- Sui Bridge → Sui Bridge
+- Wormhole Connect → Wormhole Connect
+- Wormhole Portal Bridge → Wormhole Portal Bridge
+- Walrus → Walrus
+- Wallet Standard → Wallet Standard
+- SuiPlay0X1 → SuiPlay0X1
+- GraphQL → GraphQL
+- GraphiQL → GraphiQL
+- JSON-RPC → JSON-RPC
+- gRPC → gRPC
+- Docusaurus → Docusaurus
+- Discord → Discord
+- Devnet → Devnet
+- Testnet → Testnet
+- Mainnet → Mainnet
+- Localnet → Localnet
+- Closed-Loop Token → Closed-Loop Token
+- One-Time Witness → One-Time Witness
+- one-per-key uniqueness → one-per-key uniqueness
+- Enoki Gas Pool → Enoki Gas Pool
+- Transfer-to-Object → Transfer-to-Object
+- ECVRF → ECVRF
+- Bullshark → Bullshark
+- Carousel → Carousel
+- FastPay → FastPay
+- HammerHead → HammerHead
+- Mysticeti → Mysticeti
+- Mysticeti-C → Mysticeti-C
+- Mysticeti-FPC → Mysticeti-FPC
+- Narwhal → Narwhal
+- Sui Lutris → Sui Lutris
+- Tusk → Tusk
+- Twins → Twins
+- Zef → Zef
+- zkLogin → zkLogin
+- Groth16 → Groth16
+- ClipLoader → ClipLoader
+- CLOB → CLOB
+- Crowdin → Crowdin
+- Counter NFT → Counter NFT
+- Shinami → Shinami
+- reCAPTCHA → reCAPTCHA
+- CFRG → CFRG
+- JWT → JWT
+- OAuth → OAuth
+- zkLogin → zkLogin
+- ZK proof → ZK proof
+- OAuth → OAuth
+- WASM → WASM
+- WebAssembly → WebAssembly
+- ERC-1155 → ERC-1155
+- VecMap → VecMap
+- Url → Url
+- sui-tool → sui-tool
+- GitHub → GitHub
+- Visual Studio Code → Visual Studio Code
+- IntelliJ IDEA → IntelliJ IDEA
+- Emacs → Emacs
+- Move Analyzer → Move Analyzer
+- Move Trace Debugger → Move Trace Debugger
+- Move extension → Move extension
+- Move syntax → Move syntax
+- Move Language Plugin → Move Language Plugin
+- move-mode → move-mode
+- move-analyzer → move-analyzer
+- Mozilla → Mozilla
+- Github Codespaces → Github Codespaces
+- Circle → Circle
+- Tether → Tether
+- Agora Finance → Agora Finance
+- Ondo Finance → Ondo Finance
+- Blake2b → Blake2b
+- Coin Registry → Coin Registry
+- Currency Standard → Currency Standard
+- Coin Flip → Coin Flip
+- Reviews Rating → Reviews Rating
+- Plinko → Plinko
+- Weather Oracle → Weather Oracle
+- Table → Table
+- Bag → Bag
+- Prettier → Prettier
+- Prometheus → Prometheus
+- AWS → AWS
+- Cloudflare → Cloudflare
+- download_private.sh → download_private.sh
+- HAProxy → HAProxy
+- GCP Cloud Armor → GCP Cloud Armor
+- RocksDB → RocksDB
+- RPC → RPC
+- Beamable → Beamable
+- Playtron → Playtron
+- Playtron GameOS → Playtron GameOS
+- Playtron GameOS SDK → Playtron GameOS SDK
+- PoolRegistry → PoolRegistry
+- ReadonlyWalletAccount → ReadonlyWalletAccount
+- SuiLink → SuiLink
+- SIP → SIP
+- Snagit → Snagit
+- Grafana → Grafana
+- Grafana Agent → Grafana Agent
+- Grafana Alloy → Grafana Alloy
+- Tokio → Tokio
+- Jaeger → Jaeger
+- Vector → Vector
+- jemalloc → jemalloc
+- jeprof → jeprof
+- Kiosk → Kiosk
+- Kiosk Apps → Kiosk Apps
+- Kiosk Apps API → Kiosk Apps API
+- SuiJSON → SuiJSON
+- suiup → suiup
+- address → address
+- sponsored transaction → sponsored transaction
+- transaction digest → transaction digest
+- dual-signed transaction → dual-signed transaction
+- programmable transaction block (PTB) → programmable transaction block (PTB)
+- transaction → transaction
+- local faucet → local faucet
+- faucet → faucet
+- initial coin offering (ICO) → ICO
+- token generation event (TGE) → TGE
+- verifiable random function (VRF) → VRF
+- multisig → multisig
+- package object → package object
+- party object → party object
+- derived object → derived object
+- zero-knowledge succinct non-interactive argument of knowledge (zk-SNARK) → zk-SNARK
+- transfer policy → transfer policy
+- liquid staking → liquid staking
+- staking pool → staking pool
