@@ -13,7 +13,7 @@
 
 - Sui Docs 번역
 - Sui Overflow 해커톤 수상자 배출
-- 2026 Move Contest 개최
+- 2026 Move Conference 개최
 
 ## 번역 프로세스
 
