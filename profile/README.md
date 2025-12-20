@@ -92,13 +92,13 @@
 - [2025 수상작 발표](https://blog.sui.io/2025-sui-overflow-hackathon-winners/)  
 - [2024 수상작 발표](https://blog.sui.io/2024-sui-overflow-hackathon-winners/)  
 
+### Walrus 해커톤
+- [Walrus Haulout Hackathon](https://www.walrus.xyz/blog/haulout-hackathon-winners-2025)
+- [Walrus Devnet Hackathon: Breaking the Ice](https://info.breakingtheice.sui.io/)
+
 ### 기타 글로벌 해커톤
 #### 2023
 - [Sui x KuCoin Labs Summer Hackathon](https://blog.sui.io/hackathon-winners/)  
-
-### Walrus 해커톤
-#### 2024
-- [Walrus Devnet Hackathon: Breaking the Ice](https://info.breakingtheice.sui.io/)
 
 ## 🧾 번역 & 용어 사전
 - 📚 [TTA 정보통신용어사전](https://terms.tta.or.kr/main.do) — 한국정보통신기술협회 공식 용어 정리
