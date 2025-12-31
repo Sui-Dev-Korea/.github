@@ -103,6 +103,7 @@
 
 ## 🧾 번역 & 용어 사전
 - 🇰🇷 [Sui 개발 문서 (한국어)](https://sui-dev-korea.github.io/ko/) — 커뮤니티 한국어 번역 문서
+- 📋 [번역 프로젝트 보드](https://github.com/orgs/Sui-Dev-Korea/projects/4) — 번역 진행 현황 및 참여
 - 📚 [TTA 정보통신용어사전](https://terms.tta.or.kr/main.do) — 한국정보통신기술협회 공식 용어 정리
 - 🌐 [Crowdin](https://crowdin.com/) — 문서 번역 워크플로우 (테스트 중)
 - 🌐 [GitLocalize](https://gitlocalize.com/) — 문서 번역 워크플로우 (테스트 중)
