@@ -86,6 +86,9 @@
 - [@Mysten_Labs](https://x.com/Mysten_Labs)  
 - [@WalrusProtocol](https://x.com/WalrusProtocol)  
 
+## 🚀 딥서지 (DeepSurge)
+- 🌐 [메인 페이지](https://www.deepsurge.xyz/) — 해커톤 포털 & 빌더 커뮤니티 허브
+
 ## 🏆 글로벌 해커톤 (연도별)
 
 ### Sui Overflow
