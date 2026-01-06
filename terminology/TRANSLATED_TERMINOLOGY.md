@@ -168,3 +168,4 @@
 - overhead → 오버헤드
 - signature → 서명
 - sponsor → 스폰서
+- signature scheme → 서명 방식
