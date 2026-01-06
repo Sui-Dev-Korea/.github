@@ -28,6 +28,8 @@
 - commit → 커밋
 - binary → 바이너리
 - entity → 엔티티
+- public key → 공개 키
+- private key → 개인 키
 - ephemeral public key → 임시 공개 키
 - upgrade → 업그레이드
 - framework → 프레임워크
@@ -46,7 +48,6 @@
 - call stack → 호출 스택
 - cliff vesting → 클리프 베스팅
 - commission rate → 수수료율
-- custom indexer → 커스텀 인덱서
 - custom RPC endpoint → 커스텀 RPC 엔드포인트
 - custodial wallet → 커스터디 지갑
 - database snapshot → 데이터베이스 스냅샷
@@ -143,7 +144,7 @@
 - key derivation path → 키 파생 경로
 - key derivation scheme → 키 파생 체계
 - mnemonic → 니모닉
-- multi-party computation (MPC) →  다자간 계산 (MPC)
+- multi-party computation (MPC) → 다자간 계산 (MPC)
 - multi-signature (multisig) → 다중 서명
 - liquidity token → 유동성 토큰
 - offline signing → 오프라인 서명

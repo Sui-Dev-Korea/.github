@@ -13,7 +13,8 @@
 
 ## 🧠 수이 (Sui Core)
 - 🌐 [메인 페이지](https://sui.io/)  
-- 📚 [개발 문서](https://docs.sui.io/)  
+- 📚 [개발 문서](https://docs.sui.io/)
+- 📚 [개발 문서 (한국어)](https://sui-dev-korea.github.io/ko/) — 커뮤니티 번역  
 - 💻 [GitHub](https://github.com/MystenLabs/sui)  
 - ⚙️ [Sui CLI](https://docs.sui.io/references/cli/client) — 계정/트랜잭션 관리  
 - 🧰 [Sui SDKs](https://docs.sui.io/references/sui-sdks) — Typescript, Rust 등 SDK 모음  
@@ -85,6 +86,9 @@
 - [@Mysten_Labs](https://x.com/Mysten_Labs)  
 - [@WalrusProtocol](https://x.com/WalrusProtocol)  
 
+## 🚀 딥서지 (DeepSurge)
+- 🌐 [메인 페이지](https://www.deepsurge.xyz/) — 해커톤 포털 & 빌더 커뮤니티 허브
+
 ## 🏆 글로벌 해커톤 (연도별)
 
 ### Sui Overflow
@@ -101,6 +105,8 @@
 - [Sui x KuCoin Labs Summer Hackathon](https://blog.sui.io/hackathon-winners/)  
 
 ## 🧾 번역 & 용어 사전
+- 🇰🇷 [Sui 개발 문서 (한국어)](https://sui-dev-korea.github.io/ko/) — 커뮤니티 한국어 번역 문서
+- 📋 [번역 프로젝트 보드](https://github.com/orgs/Sui-Dev-Korea/projects/4) — 번역 진행 현황 및 참여
 - 📚 [TTA 정보통신용어사전](https://terms.tta.or.kr/main.do) — 한국정보통신기술협회 공식 용어 정리
 - 🌐 [Crowdin](https://crowdin.com/) — 문서 번역 워크플로우 (테스트 중)
 - 🌐 [GitLocalize](https://gitlocalize.com/) — 문서 번역 워크플로우 (테스트 중)

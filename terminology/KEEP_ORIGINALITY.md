@@ -152,3 +152,5 @@
 - staking pool → staking pool
 - enum → enum
 - primitive → primitive
+- custom indexer → custom indexer
+- custom indexing → custom indexing
