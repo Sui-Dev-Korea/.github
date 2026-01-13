@@ -170,3 +170,7 @@
 - sponsor → 스폰서
 - signature scheme → 서명 방식
 - Byzantine → 비잔틴
+- run time → 런타임
+- sender → 전송자
+- function → 함수/기능
+- package → 패키지
