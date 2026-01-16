@@ -170,3 +170,5 @@
 - sponsor → 스폰서
 - signature scheme → 서명 방식
 - Byzantine → 비잔틴
+- parent object → 부모 object
+- versioning scheme → 버전 관리 체계
