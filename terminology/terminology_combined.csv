@@ -1,0 +1,313 @@
+English Term,Translation/Keep As,Category
+account,계정,Translated
+address,address,Keep Original
+address-owned,address-owned,Keep Original
+Agora Finance,Agora Finance,Keep Original
+annual percentage yield (APY),연간 수익률 (APY),Translated
+architecture,아키텍처,Translated
+Archival Service,아카이브 서비스,Translated
+Archival Store,아카이브 스토어,Translated
+asset tokenization,자산 토큰화,Translated
+attestation,증명,Translated
+attestation document,증명 문서,Translated
+authenticator,인증 장치,Translated
+AWS,AWS,Keep Original
+backloaded vesting,백로드형 베스팅,Translated
+backpressure,백프레셔,Translated
+Bag,Bag,Keep Original
+base asset,베이스 자산,Translated
+Beamable,Beamable,Keep Original
+binary,바이너리,Translated
+Blake2b,Blake2b,Keep Original
+Blob,Blob,Keep Original
+blockchain,블록체인,Translated
+bridge,브리지,Translated
+bridge committee,브리지 위원회,Translated
+bridging,브리징,Translated
+Bullshark,Bullshark,Keep Original
+call stack,호출 스택,Translated
+capability/ability,capability/ability,Keep Original
+Carousel,Carousel,Keep Original
+certificate authority,인증 기관,Translated
+certificate chain,인증서 체인,Translated
+CFRG,CFRG,Keep Original
+checkpoint,체크포인트,Translated
+checkpoints,체크포인트,Translated
+Circle,Circle,Keep Original
+cliff vesting,클리프 베스팅,Translated
+ClipLoader,ClipLoader,Keep Original
+CLOB,CLOB,Keep Original
+Closed-Loop Token,Closed-Loop Token,Keep Original
+Cloudflare,Cloudflare,Keep Original
+coin,코인,Translated
+Coin Flip,Coin Flip,Keep Original
+Coin Registry,Coin Registry,Keep Original
+command palette,명령 팔레트,Translated
+commission rate,수수료율,Translated
+commit,커밋,Translated
+composable / composability,composable / composability,Keep Original
+concurrent pipeline,컨커런트 파이프라인,Translated
+consensus proposals,합의 제안,Translated
+consensus sequencing,합의 시퀀싱,Translated
+Contributor Covenant,컨트리뷰터 커버넌트,Translated
+Counter NFT,Counter NFT,Keep Original
+Crowdin,Crowdin,Keep Original
+Currency Standard,Currency Standard,Keep Original
+custodial wallet,커스터디 지갑,Translated
+custody,수탁,Translated
+custom indexer,커스텀 인덱서,Translated
+custom RPC endpoint,커스텀 RPC 엔드포인트,Translated
+database snapshot,데이터베이스 스냅샷,Translated
+decentralized application (dApp),탈중앙화 애플리케이션 (dApp),Translated
+decentralized autonomous organization (DAO),탈중앙화 자율 조직 (DAO),Translated
+decision rule,결정 규칙,Translated
+delegated proof-of-stake (DPoS),위임 지분 증명 (DPoS),Translated
+derivation path,파생 경로,Translated
+derived object,derived object,Keep Original
+Devnet,Devnet,Keep Original
+disassembly view,디스어셈블리 뷰,Translated
+Discord,Discord,Keep Original
+distributed key generation (DKG),분산 키 생성 (DKG),Translated
+distributed tracing,분산 트레이싱,Translated
+Docusaurus,Docusaurus,Keep Original
+domain separator,도메인 구분자,Translated
+download_private.sh,download_private.sh,Keep Original
+dry run,드라이 런,Translated
+dual-signed transaction,dual-signed transaction,Keep Original
+dynamic display,dynamic display,Keep Original
+dynamic fields,dynamic fields,Keep Original
+dynamic NFT,dynamic NFT,Keep Original
+ECVRF,ECVRF,Keep Original
+Emacs,Emacs,Keep Original
+embed,임베드,Translated
+enclave,enclave,Keep Original
+Enoki Gas Pool,Enoki Gas Pool,Keep Original
+entity,엔티티,Translated
+ephemeral public key,임시 공개 키,Translated
+epoch,epoch,Keep Original
+ERC-1155,ERC-1155,Keep Original
+exchange rate,환율,Translated
+execution trace,실행 트레이스,Translated
+fallback archive,폴백 아카이브,Translated
+FastPay,FastPay,Keep Original
+faucet,faucet,Keep Original
+feature flag,기능 플래그,Translated
+field mask,필드 마스크,Translated
+finality / finalized / finalizing,확정성/확정된/확정,Translated
+formal snapshot,포멀 스냅샷,Translated
+fractional NFT,분할 NFT,Translated
+framework,프레임워크,Translated
+full node,풀 노드,Translated
+GameFi,게임파이,Translated
+gas budget,가스 예산,Translated
+gas fee,가스 수수료,Translated
+gas price,가스 가격,Translated
+gas price survey,가스 가격 조사,Translated
+gas smashing,가스 스매싱,Translated
+gas sponsor,가스 스폰서,Translated
+gas station,가스 스테이션,Translated
+gas station operator,가스 스테이션 운영자,Translated
+GCP Cloud Armor,GCP Cloud Armor,Keep Original
+genesis,제네시스,Translated
+GitHub,GitHub,Keep Original
+Github Codespaces,Github Codespaces,Keep Original
+global limiter,global limiter,Keep Original
+governance token,거버넌스 토큰,Translated
+graded vesting,점진적 베스팅,Translated
+Grafana,Grafana,Keep Original
+Grafana Agent,Grafana Agent,Keep Original
+Grafana Alloy,Grafana Alloy,Keep Original
+GraphiQL,GraphiQL,Keep Original
+GraphQL,GraphQL,Keep Original
+Groth16,Groth16,Keep Original
+gRPC,gRPC,Keep Original
+HammerHead,HammerHead,Keep Original
+HAProxy,HAProxy,Keep Original
+health check,헬스 체크,Translated
+hybrid vesting,하이브리드 베스팅,Translated
+immediate vesting,즉시 베스팅,Translated
+indexer,인덱서,Translated
+ingestion,수집,Translated
+initial coin offering (ICO),ICO,Keep Original
+inlay hint,인레이 힌트,Translated
+IntelliJ IDEA,IntelliJ IDEA,Keep Original
+intent,인텐트,Translated
+intent message,인텐트 메시지,Translated
+intent signing,인텐트 서명,Translated
+Jaeger,Jaeger,Keep Original
+jemalloc,jemalloc,Keep Original
+jeprof,jeprof,Keep Original
+JSON-RPC,JSON-RPC,Keep Original
+JWT,JWT,Keep Original
+key derivation,키 파생,Translated
+key derivation path,키 파생 경로,Translated
+key derivation scheme,키 파생 체계,Translated
+key scheme,키 체계,Translated
+Kiosk,Kiosk,Keep Original
+Kiosk Apps,Kiosk Apps,Keep Original
+Kiosk Apps API,Kiosk Apps API,Keep Original
+latency,지연 시간,Translated
+limit order,지정가 주문,Translated
+linear vesting,선형 베스팅,Translated
+liquid staking,liquid staking,Keep Original
+liquidity token,유동성 토큰,Translated
+load balancer,로드 밸런서,Translated
+local faucet,local faucet,Keep Original
+local network,로컬 네트워크,Translated
+Localnet,Localnet,Keep Original
+logic,로직,Translated
+Mainnet,Mainnet,Keep Original
+manifest,매니페스트,Translated
+market order,시장가 주문,Translated
+mechanism,메커니즘,Translated
+Mermaid,Mermaid,Keep Original
+Metadata,메타데이터,Translated
+mid price,중간 가격,Translated
+milestone-based vesting,마일스톤 기반 베스팅,Translated
+mint,민트,Translated
+mnemonic,니모닉,Translated
+mnemonic phrase,니모닉 구문,Translated
+module,모듈,Translated
+Move 2024,Move 2024,Keep Original
+Move Analyzer,Move Analyzer,Keep Original
+Move extension,Move extension,Keep Original
+Move Language Plugin,Move Language Plugin,Keep Original
+Move package,Move 패키지,Translated
+Move syntax,Move syntax,Keep Original
+Move testing framework,Move 테스트 프레임워크,Translated
+Move Trace Debugger,Move Trace Debugger,Keep Original
+move-analyzer,move-analyzer,Keep Original
+move-mode,move-mode,Keep Original
+Move.lock,Move.lock,Keep Original
+Move.toml,Move.toml,Keep Original
+Mozilla,Mozilla,Keep Original
+multi-party computation (MPC),다자간 계산 (MPC),Translated
+multi-signature (multisig),다중 서명,Translated
+multisig,multisig,Keep Original
+Mysticeti,Mysticeti,Keep Original
+Mysticeti-C,Mysticeti-C,Keep Original
+Mysticeti-FPC,Mysticeti-FPC,Keep Original
+Narwhal,Narwhal,Keep Original
+non-fungible token (NFT),대체 불가능 토큰 (NFT),Translated
+nonce,논스,Translated
+OAuth,OAuth,Keep Original
+object,object,Keep Original
+offline signing,오프라인 서명,Translated
+on-chain time,온체인 시간,Translated
+Ondo Finance,Ondo Finance,Keep Original
+one-per-key uniqueness,one-per-key uniqueness,Keep Original
+One-Time Witness,One-Time Witness,Keep Original
+One-Time Witness (OTW),원타임 위트니스 (OTW),Translated
+overhead,오버헤드,Translated
+ownership,소유권,Translated
+package,패키지,Translated
+package object,package object,Keep Original
+page token,페이지 토큰,Translated
+party object,party object,Keep Original
+passkey,패스키,Translated
+pending validator,대기 중인 validator,Translated
+performance-based vesting,성과 기반 베스팅,Translated
+platform configuration register (PCR),플랫폼 구성 레지스터 (PCR),Translated
+Playtron,Playtron,Keep Original
+Playtron GameOS,Playtron GameOS,Keep Original
+Playtron GameOS SDK,Playtron GameOS SDK,Keep Original
+Plinko,Plinko,Keep Original
+PoolRegistry,PoolRegistry,Keep Original
+Prettier,Prettier,Keep Original
+programmable transaction block (PTB),programmable transaction block (PTB),Keep Original
+Prometheus,Prometheus,Keep Original
+pruning,pruning,Keep Original
+pull request (PR),풀 리퀘스트 (PR),Translated
+quorum,정족수,Translated
+rate limit,속도 제한,Translated
+ReadonlyWalletAccount,ReadonlyWalletAccount,Keep Original
+reCAPTCHA,reCAPTCHA,Keep Original
+reconfiguration,재구성,Translated
+reference gas price,참조 가스 가격,Translated
+relying party (RP),신뢰 당사자 (RP),Translated
+reproducible build,재현 가능한 빌드,Translated
+retention,리텐션,Translated
+retention policy,리텐션 정책,Translated
+retention window,리텐션 윈도우,Translated
+Reviews Rating,Reviews Rating,Keep Original
+RocksDB,RocksDB,Keep Original
+RPC,RPC,Keep Original
+secret recovery phrase,비밀 복구 구문,Translated
+self-custodial wallet,셀프 커스터디 지갑,Translated
+sequence/sequencing/sequencer,시퀀스/시퀀싱/시퀀서,Translated
+sequential pipeline,시퀀셜 파이프라인,Translated
+serverless function,서버리스 함수,Translated
+Shinami,Shinami,Keep Original
+signature,서명,Translated
+SIP,SIP,Keep Original
+Snagit,Snagit,Keep Original
+soul-bound,소울바운드,Translated
+source view,소스 뷰,Translated
+sponsor,스폰서,Translated
+sponsored transaction,sponsored transaction,Keep Original
+stablecoin,스테이블코인,Translated
+stake reward distribution rule,스테이크 보상 분배 규칙,Translated
+stake/staking,stake/staking,Keep Original
+staking pool,staking pool,Keep Original
+state snapshot,상태 스냅샷,Translated
+storage fund,스토리지 기금,Translated
+storage price,스토리지 가격,Translated
+storage rebate,스토리지 리베이트,Translated
+streaming API,스트리밍 API,Translated
+structured logging,구조화 로깅,Translated
+subscription API,구독 API,Translated
+Sui Bridge,Sui Bridge,Keep Original
+Sui Lutris,Sui Lutris,Keep Original
+sui-tool,sui-tool,Keep Original
+SuiJSON,SuiJSON,Keep Original
+SuiLink,SuiLink,Keep Original
+SuiPlay0X1,SuiPlay0X1,Keep Original
+suiup,suiup,Keep Original
+supermajority,초과 정족수,Translated
+swap,스왑,Translated
+Table,Table,Keep Original
+tallying rule,집계 규칙,Translated
+Testnet,Testnet,Keep Original
+Tether,Tether,Keep Original
+threshold signature,임계값 서명,Translated
+throughput,처리량,Translated
+token generation event (TGE),TGE,Keep Original
+Tokio,Tokio,Keep Original
+transaction,transaction,Keep Original
+transaction digest,transaction digest,Keep Original
+transfer policy,transfer policy,Keep Original
+transfer receipt,전송 영수증,Translated
+transfer request,전송 요청,Translated
+Transfer-to-Object,Transfer-to-Object,Keep Original
+trust model,신뢰 모델,Translated
+trusted computing base,신뢰 컴퓨팅 기반,Translated
+trusted execution environment (TEE),신뢰 실행 환경 (TEE),Translated
+Tusk,Tusk,Keep Original
+Twins,Twins,Keep Original
+upgrade,업그레이드,Translated
+Url,Url,Keep Original
+validator,validator,Keep Original
+validator candidate,validator 후보,Translated
+validator set,validator 세트,Translated
+VecMap,VecMap,Keep Original
+Vector,Vector,Keep Original
+verifiable random function (VRF),VRF,Keep Original
+vesting,베스팅,Translated
+vesting strategy,베스팅 전략,Translated
+Visual Studio Code,Visual Studio Code,Keep Original
+Wallet Standard,Wallet Standard,Keep Original
+Walrus,Walrus,Keep Original
+WASM,WASM,Keep Original
+watermark,워터마크,Translated
+Weather Oracle,Weather Oracle,Keep Original
+WebAssembly,WebAssembly,Keep Original
+Wormhole Connect,Wormhole Connect,Keep Original
+Wormhole Portal Bridge,Wormhole Portal Bridge,Keep Original
+wrap/wrapped/wrapping/unwrap/wrapper,wrap/wrapped/wrapping/unwrap/wrapper,Keep Original
+wrapped,wrapped,Keep Original
+Zef,Zef,Keep Original
+zero-knowledge proof,영지식 증명,Translated
+zero-knowledge succinct non-interactive argument of knowledge (zk-SNARK),zk-SNARK,Keep Original
+zero-knowledge succinct non-interactive argument of knowledge (zk-SNARK),영지식 간결 비대화형 지식 증명 (zk-SNARK),Translated
+ZK proof,ZK proof,Keep Original
+zkLogin,zkLogin,Keep Original
