@@ -154,3 +154,6 @@
 - primitive → primitive
 - custom indexer → custom indexer
 - custom indexing → custom indexing
+- ability → ability
+- address → address
+- config → config

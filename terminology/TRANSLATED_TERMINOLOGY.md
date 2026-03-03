@@ -172,3 +172,12 @@
 - Byzantine → 비잔틴
 - parent object → 부모 object
 - versioning scheme → 버전 관리 체계
+- configuration → 구성
+- owner → 소유자
+- action → 액션
+- publish → 게시
+- approve → 승인
+- verify → 검증
+- type → 타입
+- function → 함수
+- method → 방법
