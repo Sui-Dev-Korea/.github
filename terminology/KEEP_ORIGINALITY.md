@@ -4,10 +4,14 @@
 - ability
 - address
 - address-owned
+- address-owned object
 - Agora Finance
+- API
 - AWS
 - Bag
+- BCS
 - Beamable
+- Bigtable
 - Blake2b
 - Blob
 - Bullshark
@@ -15,6 +19,7 @@
 - Carousel
 - CFRG
 - Circle
+- CLI
 - ClipLoader
 - CLOB
 - Closed-Loop Token
@@ -28,6 +33,11 @@
 - Currency Standard
 - custom indexer
 - custom indexing
+- DAG
+- dApp
+- dApp Kit
+- DeFi
+- DeepBookV3
 - derived object
 - Devnet
 - Discord
@@ -40,10 +50,12 @@
 - ECVRF
 - Emacs
 - enclave
+- Enoki Connect
 - Enoki Gas Pool
 - enum
 - epoch
 - ERC-1155
+- Ethereum
 - FastPay
 - faucet
 - GCP Cloud Armor
@@ -59,12 +71,15 @@
 - gRPC
 - HammerHead
 - HAProxy
+- ID
+- immutable object
 - initial coin offering (ICO)
 - IntelliJ IDEA
 - Jaeger
 - jemalloc
 - jeprof
 - JSON-RPC
+- JWK
 - JWT
 - Kiosk
 - Kiosk Apps
@@ -89,18 +104,22 @@
 - Mysticeti-C
 - Mysticeti-FPC
 - Narwhal
+- Node.js
 - OAuth
 - object
+- object ID
 - Ondo Finance
 - one-per-key uniqueness
 - One-Time Witness
 - One-Time Witness (OTW)
+- owned object
 - package object
 - party object
 - Playtron
 - Playtron GameOS
 - Playtron GameOS SDK
 - Plinko
+- PTB
 - PoolRegistry
 - Prettier
 - primitive
@@ -112,6 +131,9 @@
 - Reviews Rating
 - RocksDB
 - RPC
+- Rust
+- SDK
+- shared object
 - Shinami
 - SIP
 - Snagit
@@ -119,7 +141,11 @@
 - stake/staking
 - staking pool
 - Sui Bridge
+- Sui CLI
+- Sui Client CLI
+- Sui dApp Kit
 - Sui Lutris
+- Sui Object Display
 - sui-tool
 - SuiJSON
 - SuiLink
@@ -136,6 +162,10 @@
 - Transfer-to-Object
 - Tusk
 - Twins
+- TypeScript
+- UID
+- USDC
+- USDT
 - Url
 - validator
 - VecMap
@@ -146,11 +176,14 @@
 - Walrus
 - WASM
 - Weather Oracle
+- Web2
+- Web3
 - WebAssembly
 - Wormhole Connect
 - Wormhole Portal Bridge
 - wrap/wrapped/wrapping/unwrap/wrapper
 - wrapped
+- wrapped object
 - Zef
 - ZK proof
 - zk-SNARK

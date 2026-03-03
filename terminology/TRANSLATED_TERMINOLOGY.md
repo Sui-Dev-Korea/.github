@@ -4,6 +4,7 @@
 - account → 계정
 - action → 액션
 - approve → 승인
+- argument → 인자
 - annual percentage yield (APY) → 연간 수익률 (APY)
 - architecture → 아키텍처
 - Archival Service → 아카이브 서비스
@@ -22,18 +23,22 @@
 - bridge committee → 브리지 위원회
 - bridging → 브리징
 - Byzantine → 비잔틴
+- bytes → 바이트
 - call stack → 호출 스택
 - certificate authority → 인증 기관
 - certificate chain → 인증서 체인
 - checkpoint → 체크포인트
 - checkpoints → 체크포인트
 - cliff vesting → 클리프 베스팅
+- client → 클라이언트
 - coin → 코인
+- command → 명령
 - command palette → 명령 팔레트
 - commission rate → 수수료율
 - commit → 커밋
 - concurrent pipeline → 컨커런트 파이프라인
 - configuration → 구성
+- consensus → 합의
 - consensus proposals → 합의 제안
 - consensus sequencing → 합의 시퀀싱
 - Contributor Covenant → 컨트리뷰터 커버넌트
@@ -46,12 +51,14 @@
 - decision rule → 결정 규칙
 - delegated proof-of-stake (DPoS) → 위임 지분 증명 (DPoS)
 - derivation path → 파생 경로
+- digest → 다이제스트
 - disassembly view → 디스어셈블리 뷰
 - distributed key generation (DKG) → 분산 키 생성 (DKG)
 - distributed tracing → 분산 트레이싱
 - domain separator → 도메인 구분자
 - dry run → 드라이 런
 - embed → 임베드
+- endpoint → 엔드포인트
 - entity → 엔티티
 - ephemeral public key → 임시 공개 키
 - event → 이벤트
@@ -68,6 +75,7 @@
   - 예외: the Sui framework → 원문 그대로 the Sui framework
 - full node → 풀 노드
 - GameFi → 게임파이
+- gas → 가스
 - gas budget → 가스 예산
 - gas fee → 가스 수수료
 - gas price → 가스 가격
@@ -85,6 +93,7 @@
 - indexer → 인덱서
 - ingestion → 수집
 - inlay hint → 인레이 힌트
+- input → 입력
 - intent → 인텐트
 - intent message → 인텐트 메시지
 - intent signing → 인텐트 서명
@@ -128,10 +137,13 @@
 - package → 패키지
 - page token → 페이지 토큰
 - passkey → 패스키
+- payload → 페이로드
 - pending validator → 대기 중인 validator
 - performance-based vesting → 성과 기반 베스팅
 - platform configuration register (PCR) → 플랫폼 구성 레지스터 (PCR)
 - publish → 게시
+- pure value → 순수 값
+- provider → 제공자
 - private key → 개인 키
 - public key → 공개 키
 - pull request (PR) → 풀 리퀘스트 (PR)
@@ -141,16 +153,20 @@
 - reference gas price → 참조 가스 가격
 - relying party (RP) → 신뢰 당사자 (RP)
 - reproducible build → 재현 가능한 빌드
+- result → 결과
 - retention → 리텐션
 - retention policy → 리텐션 정책
 - retention window → 리텐션 윈도우
+- salt → 솔트
 - secret recovery phrase → 비밀 복구 구문
 - self-custodial wallet → 셀프 커스터디 지갑
+- sender → 송신자
 - sequence/sequencing/sequencer → 시퀀스/시퀀싱/시퀀서
 - sequential pipeline → 시퀀셜 파이프라인
 - serverless function → 서버리스 함수
 - signature → 서명
 - signature scheme → 서명 방식
+- smart contract → 스마트 계약
 - soul-bound → 소울바운드
 - source view → 소스 뷰
 - sponsor → 스폰서
@@ -181,6 +197,8 @@
 - vesting strategy → 베스팅 전략
 - versioning scheme → 버전 관리 체계
 - verify → 검증
+- voting power → 투표권
+- wallet → 지갑
 - watermark → 워터마크
 - zero-knowledge proof → 영지식 증명
 - zero-knowledge succinct non-interactive argument of knowledge (zk-SNARK) → 영지식 간결 비대화형 지식 증명 (zk-SNARK)
