@@ -86,9 +86,11 @@
 - gas station → 가스 스테이션
 - gas station operator → 가스 스테이션 운영자
 - genesis → 제네시스
+- getter → 게터
 - governance token → 거버넌스 토큰
 - graded vesting → 점진적 베스팅
 - health check → 헬스 체크
+- helper → 헬퍼
 - hybrid vesting → 하이브리드 베스팅
 - immediate vesting → 즉시 베스팅
 - indexer → 인덱서
@@ -109,6 +111,7 @@
 - load balancer → 로드 밸런서
 - local network → 로컬 네트워크
 - logic → 로직
+- maker → 메이커
 - manifest → 매니페스트
 - market order → 시장가 주문
 - mechanism → 메커니즘
@@ -151,6 +154,9 @@
 - quorum → 정족수
 - rate limit → 속도 제한
 - reconfiguration → 재구성
+- release → 릴리스
+  - 예외: token, product, network launch 문맥일 때는 출시
+  - 예외: software, service, binary를 실제로 배포하는 문맥일 때는 배포
 - reference gas price → 참조 가스 가격
 - relying party (RP) → 신뢰 당사자 (RP)
 - reproducible build → 재현 가능한 빌드
@@ -182,9 +188,12 @@
 - subscription API → 구독 API
 - supermajority → 초과 정족수
 - swap → 스왑
+- taker → 테이커
 - tallying rule → 집계 규칙
 - threshold signature → 임계값 서명
 - throughput → 처리량
+- transfer → 전송
+  - 예외: ownership type이 다른 유형으로 바뀌는 문맥일 때는 전환
 - transfer receipt → 전송 영수증
 - transfer request → 전송 요청
 - trust model → 신뢰 모델
