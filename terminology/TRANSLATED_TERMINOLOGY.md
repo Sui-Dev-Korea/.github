@@ -6,6 +6,7 @@
 - approve → 승인
 - argument → 인자
 - annual percentage yield (APY) → 연간 수익률 (APY)
+- aggregated signature → 집계된 서명
 - architecture → 아키텍처
 - Archival Service → 아카이브 서비스
 - Archival Store → 아카이브 스토어
