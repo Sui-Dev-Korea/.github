@@ -133,7 +133,11 @@
 - multisig → 다중 서명
 - non-fungible token (NFT) → 대체 불가능 토큰 (NFT)
 - nonce → 논스
+- off chain → 오프체인
+- off-chain → 오프체인
 - offline signing → 오프라인 서명
+- on chain → 온체인
+- on-chain → 온체인
 - on-chain time → 온체인 시간
 - overhead → 오버헤드
 - owner → 소유자
