@@ -3,26 +3,46 @@
 
 - account → 계정
 - action → 액션
+- app → 앱
 - approve → 승인
 - argument → 인자
+- airdrop → 에어드롭
 - annual percentage yield (APY) → 연간 수익률 (APY)
 - aggregated signature → 집계된 서명
 - architecture → 아키텍처
 - Archival Service → 아카이브 서비스
 - Archival Store → 아카이브 스토어
+- asset → 자산
+  - 예외: 웹 정적 리소스 문맥일 때는 리소스
+- assets → 자산
+  - 예외: 웹 정적 리소스 문맥일 때는 정적 리소스
 - asset tokenization → 자산 토큰화
 - attestation → 증명
 - attestation document → 증명 문서
+- atmospheric pressure → 대기압
+- backfill → 백필
+- balance → 잔액
+- balances → 잔액
 - authenticator → 인증 장치
 - batch → 배치
+- backend → 백엔드
 - backloaded vesting → 백로드형 베스팅
 - backpressure → 백프레셔
 - base asset → 베이스 자산
 - binary → 바이너리
+- block → 블록
+- blocks → 블록
 - blockchain → 블록체인
+- browser → 브라우저
 - bridge → 브리지
+- bridge (verb) → 브리지하다
 - bridge committee → 브리지 위원회
+- bridge node → 브리지 노드
+- bridged → 브리지된
 - bridging → 브리징
+- borrow → 차입
+- borrower → 차입자
+- burnable → 소각 가능
 - Byzantine → 비잔틴
 - bytes → 바이트
 - call stack → 호출 스택
@@ -30,27 +50,39 @@
 - certificate chain → 인증서 체인
 - checkpoint → 체크포인트
 - checkpoints → 체크포인트
+- deposit → 예치
 - cliff vesting → 클리프 베스팅
 - client → 클라이언트
 - coin → 코인
 - command → 명령
 - command palette → 명령 팔레트
+- committee → 위원회
+- committees → 위원회
 - commission rate → 수수료율
 - commit → 커밋
+- comparison → 비교
 - concurrent pipeline → 컨커런트 파이프라인
 - configuration → 구성
 - consensus → 합의
 - consensus proposals → 합의 제안
+- collateral → 담보
 - consensus sequencing → 합의 시퀀싱
+- code coverage → 코드 커버리지
+- contribution → 기여
+- contributions → 기여
+- contribution process → 기여 절차
 - Contributor Covenant → 컨트리뷰터 커버넌트
 - custodial wallet → 커스터디 지갑
 - custody → 수탁
 - custom RPC endpoint → 커스텀 RPC 엔드포인트
+- custom indexer → 커스텀 인덱서
+- custom indexers → 커스텀 인덱서
 - database snapshot → 데이터베이스 스냅샷
 - decentralized application (dApp) → 탈중앙화 애플리케이션 (dApp)
 - decentralized autonomous organization (DAO) → 탈중앙화 자율 조직 (DAO)
 - decision rule → 결정 규칙
 - delegated proof-of-stake (DPoS) → 위임 지분 증명 (DPoS)
+- dealer → 딜러
 - derivation path → 파생 경로
 - digest → 다이제스트
 - disassembly view → 디스어셈블리 뷰
@@ -60,18 +92,30 @@
 - dry run → 드라이 런
 - embed → 임베드
 - endpoint → 엔드포인트
+- endpoints → 엔드포인트
 - entity → 엔티티
 - ephemeral public key → 임시 공개 키
 - event → 이벤트
+- example → 예시
+- examples → 예시
+- exchange → 거래소
+- exchanges → 거래소
 - exchange rate → 환율
 - execution trace → 실행 트레이스
+- field presence → 필드 존재 여부
 - fallback archive → 폴백 아카이브
+- fallback mechanism → 폴백 메커니즘
 - feature flag → 기능 플래그
 - field mask → 필드 마스크
 - finality / finalized / finalizing → 확정성/확정된/확정
 - formal snapshot → 포멀 스냅샷
+- frontend → 프론트엔드
+- frontends → 프론트엔드
+- frontmatter → frontmatter
 - fractional NFT → 분할 NFT
 - function → 함수
+- functions → 함수
+- full stack → 풀 스택
 - framework → 프레임워크
   - 예외: the Sui framework → 원문 그대로 the Sui framework
 - full node → 풀 노드
@@ -87,6 +131,7 @@
 - gas station operator → 가스 스테이션 운영자
 - genesis → 제네시스
 - getter → 게터
+- governance → 거버넌스
 - governance token → 거버넌스 토큰
 - graded vesting → 점진적 베스팅
 - health check → 헬스 체크
@@ -97,6 +142,8 @@
 - ingestion → 수집
 - inlay hint → 인레이 힌트
 - input → 입력
+- interface → 인터페이스
+- interfaces → 인터페이스
 - intent → 인텐트
 - intent message → 인텐트 메시지
 - intent signing → 인텐트 서명
@@ -105,14 +152,20 @@
 - key derivation scheme → 키 파생 체계
 - key scheme → 키 체계
 - latency → 지연 시간
+- lender → 대여자
 - limit order → 지정가 주문
 - linear vesting → 선형 베스팅
 - liquidity token → 유동성 토큰
+- liquidity → 유동성
 - load balancer → 로드 밸런서
 - local network → 로컬 네트워크
+- localization → 현지화
+- localize → 현지화하다
 - logic → 로직
 - maker → 메이커
 - manifest → 매니페스트
+- migration → 마이그레이션
+- migrations → 마이그레이션
 - market order → 시장가 주문
 - mechanism → 메커니즘
 - method → 방법
@@ -124,6 +177,8 @@
 - miner → 채굴자
 - mnemonic → 니모닉
 - mnemonic phrase → 니모닉 구문
+- moderator → 모더레이터
+- moderators → 모더레이터
 - module → 모듈
   - 예외: 링크 있을 때는 원문 module 유지
 - Move package → Move 패키지
@@ -139,39 +194,81 @@
 - on chain → 온체인
 - on-chain → 온체인
 - on-chain time → 온체인 시간
+- oracle → 오라클
 - overhead → 오버헤드
 - owner → 소유자
 - ownership → 소유권
 - package → 패키지
+- package management → 패키지 관리
+- package manager → 패키지 관리자
+- package managers → 패키지 관리자
 - page token → 페이지 토큰
 - passkey → 패스키
 - payload → 페이로드
 - pending validator → 대기 중인 validator
 - performance-based vesting → 성과 기반 베스팅
 - platform configuration register (PCR) → 플랫폼 구성 레지스터 (PCR)
+- point lookup → 포인트 조회
+- position → 포지션
+- positions → 포지션
+- pipeline → 파이프라인
+- pipelines → 파이프라인
+- polling-based → 폴링 기반
+- proof of experience → 경험 증명
+- proof of experience (PoE) → 경험 증명 (PoE)
 - publish → 게시
 - pure value → 순수 값
+- push-based → 푸시 기반
 - provider → 제공자
 - private key → 개인 키
+- prerequisite → 사전 요구 사항
+- prerequisites → 사전 요구 사항
+- proposal → 제안
+- proposals → 제안
 - public key → 공개 키
 - pull request (PR) → 풀 리퀘스트 (PR)
+- quantity → 수량
+- quantities → 수량
 - quorum → 정족수
 - rate limit → 속도 제한
+- rental → 대여
 - reconfiguration → 재구성
 - release → 릴리스
   - 예외: token, product, network launch 문맥일 때는 출시
   - 예외: software, service, binary를 실제로 배포하는 문맥일 때는 배포
+- release notes → 릴리스 노트
+- release stage → 릴리스 단계
 - reference gas price → 참조 가스 가격
+- regulated coin → 규제된 코인
+- regulated coins → 규제된 코인
+- recovery phrase → 복구 구문
+- review reader → 리뷰 열람자
+- review readers → 리뷰 열람자
+- reviewer → 리뷰어
+- reviewers → 리뷰어
+- repay → 상환
+- rebate → 리베이트
+- rebates → 리베이트
 - relying party (RP) → 신뢰 당사자 (RP)
 - reproducible build → 재현 가능한 빌드
 - result → 결과
+- reward → 보상
+- rewards → 보상
+- route → 라우트
+- routing → 라우팅
 - retention → 리텐션
 - retention policy → 리텐션 정책
 - retention window → 리텐션 윈도우
+- long-term storage → 장기 저장소
 - salt → 솔트
+- scaffold → 스캐폴드
+- schema → 스키마
+- schemas → 스키마
 - secret recovery phrase → 비밀 복구 구문
 - self-custodial wallet → 셀프 커스터디 지갑
 - sender → 송신자
+- service owner → 서비스 소유자
+- service owners → 서비스 소유자
 - sequence/sequencing/sequencer → 시퀀스/시퀀싱/시퀀서
 - sequential pipeline → 시퀀셜 파이프라인
 - serverless function → 서버리스 함수
@@ -179,6 +276,8 @@
 - signature scheme → 서명 방식
 - smart contract → 스마트 계약
 - soul-bound → 소울바운드
+- soulbound NFT → 소울바운드 NFT
+- soulbound NFTs → 소울바운드 NFT
 - source view → 소스 뷰
 - sponsor → 스폰서
 - stablecoin → 스테이블코인
@@ -189,6 +288,7 @@
 - storage rebate → 스토리지 리베이트
 - streaming API → 스트리밍 API
 - structured logging → 구조화 로깅
+- structured output → 구조화된 출력
 - subscription API → 구독 API
 - supermajority → 초과 정족수
 - swap → 스왑
@@ -196,6 +296,8 @@
 - tallying rule → 집계 규칙
 - threshold signature → 임계값 서명
 - throughput → 처리량
+- token → 토큰
+- tokens → 토큰
 - transfer → 전송
   - 예외: ownership type이 다른 유형으로 바뀌는 문맥일 때는 전환
 - transfer receipt → 전송 영수증
@@ -204,7 +306,11 @@
 - trusted computing base → 신뢰 컴퓨팅 기반
 - trusted execution environment (TEE) → 신뢰 실행 환경 (TEE)
 - type → 타입
+- type coercion → 타입 강제 변환
 - upgrade → 업그레이드
+- usage → 사용 예
+- utilization → 이용률
+- preinstalled → 사전 설치된
 - validator candidate → validator 후보
 - validator set → validator 세트
 - vesting → 베스팅
@@ -214,5 +320,8 @@
 - voting power → 투표권
 - wallet → 지갑
 - watermark → 워터마크
+- withdraw → 출금
 - zero-knowledge proof → 영지식 증명
 - zero-knowledge succinct non-interactive argument of knowledge (zk-SNARK) → 영지식 간결 비대화형 지식 증명 (zk-SNARK)
+- interest rate → 금리
+- interest rates → 금리
