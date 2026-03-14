@@ -1,38 +1,70 @@
 # Keep the original text as is (do not translate it); if it appears at the beginning of a sentence, capitalize the first letter
 # Entries in this file take precedence over TRANSLATED_TERMINOLOGY.md when the same source term appears in both files.
+# List only fixed names, branded terms, and concepts that must remain fully in English.
+# Descriptive compounds with established Korean renderings belong in TRANSLATED_TERMINOLOGY.md instead.
 
 - ability
 - address
+- address balance
+- address balances
+- address alias
+- address aliases
 - address-owned
 - address-owned object
 - Agora Finance
+- adaptive concurrency
+- availableRange
 - API
+- atomic swap
 - AWS
+- Authenticated Events
 - Bag
 - BCS
+- BLS
+- BLS G1
+- BLS G2
+- BLS12-381
+- Blake2b-256
 - Beamable
 - Bigtable
 - Blake2b
 - Blob
+- checkpoint blob
+- build environment
+- bounded ingestion
 - Bullshark
+- BYOS
+- Buf CLI
+- canonical balance system
 - capability/ability
+- CAPTCHA
 - Carousel
 - CFRG
+- Circom
 - Circle
 - CLI
+- ClickHouse
+- Client ID
 - ClipLoader
 - CLOB
 - Closed-Loop Token
 - Cloudflare
 - Coin Flip
 - Coin Registry
+- coin selection
 - composable / composability
+- Consistent Store
 - config
 - Counter NFT
 - Crowdin
+- cross-chain
+- cursor
 - Currency Standard
-- custom indexer
 - custom indexing
+- custody provider
+- Database store
+- dead band
+- deny list
 - DAG
 - dApp
 - dApp Kit
@@ -46,19 +78,37 @@
 - dual-signed transaction
 - dynamic display
 - dynamic fields
+- Ed25519
+- heterogeneous map
+- homogeneous map
 - dynamic NFT
 - ECVRF
 - Emacs
 - enclave
 - Enoki Connect
 - Enoki Gas Pool
+- Express
 - enum
+- equivocation
+- EventStreamHead
 - epoch
+- ephemeral publication
+- escrow
 - ERC-1155
 - Ethereum
+- fake coins
 - FastPay
+- fastcrypto
 - faucet
+- FieldMask
+- fill fraction
+- flash loan
+- flash loans
+- free-to-play (F2P)
+- FundsWithdrawalArg
+- funds accumulator
 - GCP Cloud Armor
+- General-purpose Indexer
 - GitHub
 - GitHub Codespaces
 - global limiter
@@ -69,10 +119,15 @@
 - GraphQL
 - Groth16
 - gRPC
+- grpcurl
 - HammerHead
 - HAProxy
 - ID
 - immutable object
+- in-flight query
+- introspection
+- in-game currency
+- in-game token
 - initial coin offering (ICO)
 - IntelliJ IDEA
 - Jaeger
@@ -81,33 +136,54 @@
 - JSON-RPC
 - JWK
 - JWT
+- Keccak256
 - Kiosk
+- live object set
 - Kiosk Apps
 - Kiosk Apps API
+- LedgerService
 - liquid staking
+- Light Client
 - local faucet
+- local fee market
 - Localnet
+- loyalty points
+- loyalty token
+- liveness
 - Mainnet
+- Merkle Mountain Range (MMR)
 - Mermaid
+- MEV
 - Move 2024
 - Move Analyzer
 - Move extension
 - Move Language Plugin
+- Move registry
 - Move syntax
 - Move Trace Debugger
 - move-analyzer
 - move-mode
 - Move.lock
 - Move.toml
+- pinning
+- rich query
+- Published.toml
 - Mozilla
 - Mysticeti
 - Mysticeti-C
 - Mysticeti-FPC
 - Narwhal
+- NextJS
 - Node.js
 - OAuth
+- OAuth client
+- OCS
 - object
 - object ID
+- observability
+- OpenID Connect
+- OpenWeather API
+- OpenWeatherMap API
 - Ondo Finance
 - one-per-key uniqueness
 - One-Time Witness
@@ -115,46 +191,88 @@
 - owned object
 - package object
 - party object
+- peer-to-peer (P2P)
+- permissionless
+- permissionlessly
+- geoname ID
 - Playtron
 - Playtron GameOS
 - Playtron GameOS SDK
 - Plinko
 - PTB
 - PoolRegistry
+- PostgreSQL
 - Prettier
 - primitive
 - programmable transaction block (PTB)
 - Prometheus
 - pruning
+- R1CS
 - ReadonlyWalletAccount
+- React
+- remote store
+- redirect URI
+- Referent
+- Ristretto255
 - reCAPTCHA
+- referral
+- referrals
+- referrer
 - Reviews Rating
 - RocksDB
 - RPC
+- root object bound
+- round trip
+- RFC 3339
+- RFC6979
+- rug-pull
+- royalty / royalties
 - Rust
 - SDK
+- Secp256k1
+- Secp256r1
+- SHA-512
+- SHA2-256
+- SHA3-256
+- safety delay
+- secondary sale / secondary sales
+- sessionStorage
 - shared object
 - Shinami
 - SIP
+- single sign-on (SSO)
+- single-owner fastpath
 - Snagit
+- social login
 - sponsored transaction
 - stake/staking
 - staking pool
+- state sync
 - Sui Bridge
 - Sui CLI
 - Sui Client CLI
 - Sui dApp Kit
 - Sui Lutris
 - Sui Object Display
+- Slush
 - sui-tool
 - SuiJSON
 - SuiLink
 - SuiPlay0X1
 - suiup
+- syntax
 - Table
+- TanStack Query
+- template
+- threshold
+- codegen
+- template engine
+- template string
 - Testnet
 - Tether
+- Token Exchange URL
 - token generation event (TGE)
+- trustless swap
 - Tokio
 - transaction
 - transaction digest
@@ -167,10 +285,15 @@
 - USDC
 - USDT
 - Url
+- Wasm
+- ValidDuring
 - validator
 - VecMap
 - Vector
 - verifiable random function (VRF)
+- Vite
+- witness
+- zk-SNARK
 - Visual Studio Code
 - Wallet Standard
 - Walrus
@@ -179,6 +302,7 @@
 - Web2
 - Web3
 - WebAssembly
+- React Native
 - Wormhole Connect
 - Wormhole Portal Bridge
 - wrap/wrapped/wrapping/unwrap/wrapper
@@ -186,5 +310,7 @@
 - wrapped object
 - Zef
 - ZK proof
+- ZK Proving Service
+- zkey
 - zk-SNARK
 - zkLogin
