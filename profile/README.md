@@ -25,6 +25,20 @@
 - 🧪 [MystenLabs Examples](https://github.com/MystenLabs/sui/tree/main/examples)  
 - 💡 [App Examples](https://docs.sui.io/guides/developer/app-examples)  
 
+## 🤖 무브 AI 스킬 (Move AI Skills)
+AI 코딩 에이전트(Claude Code 등)에서 Move 개발을 지원하는 스킬 레포 모음입니다.
+
+- 🔍 [move-code-quality-skill](https://github.com/1NickPappas/move-code-quality-skill) — Move Book Code Quality Checklist 기준으로 Move 패키지를 자동 분석하는 Claude Code 스킬 (MIT, ⭐ 8)
+- 🛠️ [sui-dev-skill](https://github.com/Nebryx/sui-dev-skill) — Sui Move 스마트 컨트랙트 개발 종합 스킬. 코드 템플릿, Sui 오브젝트 모델, PTB, TypeScript SDK, CTF 보안 실습 등 포괄
+- 🧪 [move-prover (claude-starter)](https://github.com/raintree-technology/claude-starter) — 40+ 스킬 프레임워크 내 Aptos Move 프루버 스킬 포함 (`npx add-skill raintree-technology/claude-starter --skill move-prover`)
+- 📋 [move-code-quality (claude-code-templates)](https://agentskills.so/skills/davila7-claude-code-templates-move-code-quality) — AgentSkills.io에 등재된 Move 코드 품질 분석 스킬. `.move` 파일 작업 시 자동 활성화
+- 🏷️ [Move Code Quality Analyzer (ClaudeSkillsHQ)](https://www.claudeskillshq.com/skills/move-code-quality-analyzer) — 코드 구조, 리소스 핸들링, 접근 제어, 보안 안티패턴 평가
+
+> 💡 **설치 예시 (Claude Code)**
+> ```bash
+> git clone https://github.com/1NickPappas/move-code-quality-skill ~/.claude/skills/move-code-quality
+> ```
+
 ## 🧪 이노키 (Enoki)
 - 🌐 [메인 페이지](https://enoki.mystenlabs.com/)  
 - 📚 [개발 문서](https://docs.enoki.mystenlabs.com/)
