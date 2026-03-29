@@ -34,23 +34,22 @@
 - address
 - address balance
 - address balances
-- address alias
-- address aliases
 - address-owned
-- address-owned object
 - Agora Finance
 - adaptive concurrency
 - availableRange
 - API
 - atomic swap
 - AWS
-- Authenticated Events
 - Bag
+- Blackjack
 - BCS
 - BLS
 - BLS G1
 - BLS G2
 - BLS12-381
+- BalanceManager
+- BalanceManager SDK
 - Blake2b-256
 - Beamable
 - Bigtable
@@ -93,6 +92,9 @@
 - dApp Kit
 - DeFi
 - DeepBookV3
+- DeepBookV3 SDK
+- DeepBook Margin
+- DeepBook Margin SDK
 - derived object
 - Devnet
 - Discord
@@ -100,7 +102,6 @@
 - download_private.sh
 - dual-signed transaction
 - dynamic display
-- dynamic fields
 - Ed25519
 - heterogeneous map
 - homogeneous map
@@ -145,12 +146,10 @@
 - grpcurl
 - HammerHead
 - HAProxy
+- Hello, World!
 - ID
-- immutable object
 - in-flight query
 - introspection
-- in-game currency
-- in-game token
 - initial coin offering (ICO)
 - IntelliJ IDEA
 - Jaeger
@@ -168,10 +167,8 @@
 - liquid staking
 - Light Client
 - local faucet
-- local fee market
 - Localnet
 - loyalty points
-- loyalty token
 - liveness
 - Mainnet
 - Merkle Mountain Range (MMR)
@@ -195,15 +192,17 @@
 - Mysticeti
 - Mysticeti-C
 - Mysticeti-FPC
+- Nautilus
 - Narwhal
 - NextJS
 - Node.js
+- NFT
 - OAuth
 - OAuth client
 - OCS
-- object
-- object ID
 - observability
+- Object Display V1
+- Object Display V2
 - OpenID Connect
 - OpenWeather API
 - OpenWeatherMap API
@@ -213,7 +212,6 @@
 - One-Time Witness (OTW)
 - owned object
 - package object
-- party object
 - peer-to-peer (P2P)
 - permissionless
 - permissionlessly
@@ -226,7 +224,6 @@
 - PoolRegistry
 - PostgreSQL
 - Prettier
-- primitive
 - programmable transaction block (PTB)
 - Prometheus
 - pruning
@@ -241,9 +238,11 @@
 - referral
 - referrals
 - referrer
+- Review Rating
 - Reviews Rating
 - RocksDB
 - RPC
+- Rust SDK
 - root object bound
 - RFC 3339
 - RFC6979
@@ -254,6 +253,7 @@
 - SDK
 - Secp256k1
 - Secp256r1
+- Sagat
 - SHA-512
 - SHA2-256
 - SHA3-256
@@ -261,7 +261,6 @@
 - secondary sale
 - secondary sales
 - sessionStorage
-- shared object
 - Shinami
 - SIP
 - single sign-on (SSO)
@@ -274,9 +273,18 @@
 - Sui Bridge
 - Sui CLI
 - Sui Client CLI
+- Sui Client PTB CLI
 - Sui dApp Kit
+- Sui Framework
+- Sui Keytool CLI
+- Sui Kiosk
 - Sui Lutris
+- Sui Move CLI
 - Sui Object Display
+- Sui Replay CLI
+- Sui RPC
+- Sui Weather Oracle
+- Sui Validator CLI
 - Slush
 - sui-tool
 - SuiJSON
@@ -288,14 +296,16 @@
 - codegen
 - Testnet
 - Tether
+- Tic-Tac-Toe
 - Token Exchange URL
 - token generation event (TGE)
 - trustless swap
+- Trustless Swap
 - Tokio
 - transaction
 - transaction digest
-- transfer policy
 - Transfer-to-Object
+- Turnip Town
 - Tusk
 - Twins
 - TypeScript
@@ -328,7 +338,6 @@
 - wrapping
 - unwrap
 - wrapper
-- wrapped object
 - Zef
 - ZK proof
 - ZK Proving Service
