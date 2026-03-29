@@ -1,7 +1,34 @@
-# Keep the original text as is (do not translate it); if it appears at the beginning of a sentence, capitalize the first letter
-# Entries in this file take precedence over TRANSLATED_TERMINOLOGY.md when the same source term appears in both files.
-# List only fixed names, branded terms, and concepts that must remain fully in English.
-# Descriptive compounds with established Korean renderings belong in TRANSLATED_TERMINOLOGY.md instead.
+# Keep Originality
+
+## Purpose
+
+이 파일은 한국어 문서에서도 원문 영어를 그대로 유지해야 하는 항목을 정의한다.
+
+## Priority
+
+이 파일의 항목은 `TRANSLATED_TERMINOLOGY.md`보다 우선한다.
+
+## Scope
+
+이 파일은 한국어 문서에서도 영어 원문을 그대로 유지해야 하는 항목에 적용한다.
+
+## Rules
+
+### Inclusion Criteria
+
+이 파일에는 다음 항목만 넣는다.
+
+1. 고정 이름과 브랜드명
+2. 파일명, 명령어, 식별자, 프로토콜명, 표준명
+3. 프로젝트에서 한국어 prose 안에서도 영어 유지하기로 합의한 용어
+
+문맥에 따라 번역 여부가 달라지는 일반 기술 용어는 넣지 않는다. 특정 문맥에서만 유지해야 하는 항목은 이 파일에 넣지 말고 문맥으로 판단하거나 `TRANSLATED_TERMINOLOGY.md`에 phrase-level 항목으로 관리한다.
+
+### Entry Format
+
+항목은 한 줄에 하나의 source form만 둔다. 여러 형태를 `/`로 묶지 않는다.
+
+## Entries
 
 - ability
 - address
@@ -30,13 +57,11 @@
 - Blake2b
 - Blob
 - checkpoint blob
-- build environment
 - bounded ingestion
 - Bullshark
 - BYOS
 - Buf CLI
 - canonical balance system
-- capability/ability
 - CAPTCHA
 - Carousel
 - CFRG
@@ -52,15 +77,13 @@
 - Coin Flip
 - Coin Registry
 - coin selection
-- composable / composability
+- composable
+- composability
 - Consistent Store
 - config
 - Counter NFT
 - Crowdin
-- cross-chain
-- cursor
 - Currency Standard
-- custom indexing
 - custody provider
 - Database store
 - dead band
@@ -222,11 +245,11 @@
 - RocksDB
 - RPC
 - root object bound
-- round trip
 - RFC 3339
 - RFC6979
 - rug-pull
-- royalty / royalties
+- royalty
+- royalties
 - Rust
 - SDK
 - Secp256k1
@@ -235,7 +258,8 @@
 - SHA2-256
 - SHA3-256
 - safety delay
-- secondary sale / secondary sales
+- secondary sale
+- secondary sales
 - sessionStorage
 - shared object
 - Shinami
@@ -243,11 +267,10 @@
 - single sign-on (SSO)
 - single-owner fastpath
 - Snagit
-- social login
 - sponsored transaction
-- stake/staking
+- stake
+- staking
 - staking pool
-- state sync
 - Sui Bridge
 - Sui CLI
 - Sui Client CLI
@@ -260,14 +283,9 @@
 - SuiLink
 - SuiPlay0X1
 - suiup
-- syntax
 - Table
 - TanStack Query
-- template
-- threshold
 - codegen
-- template engine
-- template string
 - Testnet
 - Tether
 - Token Exchange URL
@@ -305,12 +323,14 @@
 - React Native
 - Wormhole Connect
 - Wormhole Portal Bridge
-- wrap/wrapped/wrapping/unwrap/wrapper
 - wrapped
+- wrap
+- wrapping
+- unwrap
+- wrapper
 - wrapped object
 - Zef
 - ZK proof
 - ZK Proving Service
 - zkey
-- zk-SNARK
 - zkLogin

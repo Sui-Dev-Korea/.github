@@ -1,5 +1,24 @@
-# Translated Glossary (Strictly Enforced)
-# Apply this file only when the source term is not listed in KEEP_ORIGINALITY.md.
+# Translated Terminology
+
+## Purpose
+
+이 파일은 한국어 문서에서 일관되게 번역해야 하는 용어를 정의한다.
+
+## Priority
+
+우선순위는 `KEEP_ORIGINALITY.md` > 이 파일 > 문맥 판단 순서다.
+
+## Scope
+
+이 파일은 prose와 사용자에게 보이는 UI 텍스트에 적용한다. 코드 식별자, 타입 이름, 필드 이름, CLI 옵션, 파일명, 경로, URL, explicit heading ID에는 적용하지 않는다.
+
+## Rules
+
+### Entry Format
+
+항목은 한 줄에 하나의 source form만 둔다. 의미가 여러 개인 단어는 가능하면 phrase-level 항목이나 예외 규칙으로 관리한다.
+
+## Entries
 
 - account → 계정
 - action → 액션
@@ -40,6 +59,7 @@
 - bridge node → 브리지 노드
 - bridged → 브리지된
 - bridging → 브리징
+- build environment → 빌드 환경
 - borrow → 차입
 - borrower → 차입자
 - burnable → 소각 가능
@@ -72,11 +92,14 @@
 - contributions → 기여
 - contribution process → 기여 절차
 - Contributor Covenant → 컨트리뷰터 커버넌트
+- cross-chain → 크로스체인
+- cursor → 커서
 - custodial wallet → 커스터디 지갑
 - custody → 수탁
 - custom RPC endpoint → 커스텀 RPC 엔드포인트
 - custom indexer → 커스텀 인덱서
 - custom indexers → 커스텀 인덱서
+- custom indexing → 커스텀 인덱싱
 - database snapshot → 데이터베이스 스냅샷
 - decentralized application (dApp) → 탈중앙화 애플리케이션 (dApp)
 - decentralized autonomous organization (DAO) → 탈중앙화 자율 조직 (DAO)
@@ -107,11 +130,12 @@
 - fallback mechanism → 폴백 메커니즘
 - feature flag → 기능 플래그
 - field mask → 필드 마스크
-- finality / finalized / finalizing → 확정성/확정된/확정
+- finality → 확정성
+- finalized → 확정된
+- finalizing → 확정 중
 - formal snapshot → 포멀 스냅샷
 - frontend → 프론트엔드
 - frontends → 프론트엔드
-- frontmatter → frontmatter
 - fractional NFT → 분할 NFT
 - function → 함수
 - functions → 함수
@@ -180,7 +204,6 @@
 - moderator → 모더레이터
 - moderators → 모더레이터
 - module → 모듈
-  - 예외: 링크 있을 때는 원문 module 유지
 - Move package → Move 패키지
 - Move testing framework → Move 테스트 프레임워크
 - multi-party computation (MPC) → 다자간 계산 (MPC)
@@ -256,6 +279,7 @@
 - rewards → 보상
 - route → 라우트
 - routing → 라우팅
+- round trip → 왕복
 - retention → 리텐션
 - retention policy → 리텐션 정책
 - retention window → 리텐션 윈도우
@@ -269,12 +293,15 @@
 - sender → 송신자
 - service owner → 서비스 소유자
 - service owners → 서비스 소유자
-- sequence/sequencing/sequencer → 시퀀스/시퀀싱/시퀀서
+- sequence → 시퀀스
+- sequencing → 시퀀싱
+- sequencer → 시퀀서
 - sequential pipeline → 시퀀셜 파이프라인
 - serverless function → 서버리스 함수
 - signature → 서명
 - signature scheme → 서명 방식
 - smart contract → 스마트 계약
+- social login → 소셜 로그인
 - soul-bound → 소울바운드
 - soulbound NFT → 소울바운드 NFT
 - soulbound NFTs → 소울바운드 NFT
@@ -282,6 +309,7 @@
 - sponsor → 스폰서
 - stablecoin → 스테이블코인
 - stake reward distribution rule → 스테이크 보상 분배 규칙
+- state sync → 상태 동기화
 - state snapshot → 상태 스냅샷
 - storage fund → 스토리지 기금
 - storage price → 스토리지 가격
@@ -292,8 +320,13 @@
 - subscription API → 구독 API
 - supermajority → 초과 정족수
 - swap → 스왑
+- syntax → 구문
 - taker → 테이커
 - tallying rule → 집계 규칙
+- template → 템플릿
+- template engine → 템플릿 엔진
+- template string → 템플릿 문자열
+- threshold → 임계값
 - threshold signature → 임계값 서명
 - throughput → 처리량
 - token → 토큰
@@ -308,7 +341,6 @@
 - type → 타입
 - type coercion → 타입 강제 변환
 - upgrade → 업그레이드
-- usage → 사용 예
 - utilization → 이용률
 - preinstalled → 사전 설치된
 - validator candidate → validator 후보
