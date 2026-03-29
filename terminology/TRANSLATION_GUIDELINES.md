@@ -39,7 +39,7 @@
 
 - 문서 제목, 섹션 제목, 소제목, 본문 링크 텍스트는 사용자에게 보이는 텍스트이므로 번역한다.
 - `temp-pr금지/DOCUMENT_STRUCTURE.md`에 포함된 문서 페이지는 제목을 번역 대상에 포함한다. 영문 제목을 기본값으로 남겨두지 않는다.
-- 한 페이지의 제목을 번역할 때는 해당 페이지를 가리키는 링크 텍스트, 카드 제목, `sidebar_label`, `pagination_label`도 함께 찾아 같은 한국어 제목으로 맞춘다.
+- 한 페이지의 제목을 번역할 때는 해당 페이지를 가리키는 링크 텍스트, 카드 제목, `sidebar_label`, `pagination_label`도 함께 찾아 canonical Korean title 기준으로 맞춘다.
 - 같은 대상 페이지를 가리키는 제목과 링크 텍스트는 문서마다 따로 번역하지 않고 하나의 canonical Korean title을 재사용한다.
 - 본문 문장 안에서 링크를 사용할 때는 가능하면 링크 텍스트를 canonical title 그대로 두고, 조사나 설명은 링크 바깥에 둔다.
 - 제목과 링크 텍스트에 포함된 고유명사, 제품명, 파일명, 명령어는 용어장과 일반 규칙에 따라 원문을 유지한다.
@@ -53,6 +53,7 @@
 - 사용자에게 보이는 front matter 값인 `title`, `sidebar_label`, `pagination_label`은 번역한다.
 - `description`, `keywords`는 한국어 문맥에 맞게 번역할 수 있다.
 - 같은 대상 페이지를 가리키는 `title`, `sidebar_label`, `pagination_label`은 가능한 한 같은 canonical Korean title을 사용한다.
+- 다만 `sidebar_label`, `pagination_label`은 네비게이션 가독성을 위해 canonical title에서 접두어를 줄이거나 일부를 생략한 축약형을 쓸 수 있다. 이 경우에도 핵심 용어 선택은 바꾸지 않고, 별도의 대안 번역을 만들지 않는다.
 - 라우팅 또는 참조에 영향을 주는 `id`, `slug`, `pagination_next`, `pagination_prev`, `sidebar_position`, `sidebar_key`, `displayed_sidebar`, `custom_edit_url` 등은 번역하지 않는다.
 - front matter의 `description` 등 scalar 값에 백틱이나 YAML 파싱에 민감한 문자가 포함되면 값 전체를 큰따옴표(`"..."`)로 감싼다.
 

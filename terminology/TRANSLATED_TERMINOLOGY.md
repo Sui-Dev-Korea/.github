@@ -31,11 +31,13 @@
 - address balances → 주소 잔액
 - address-owned object → 주소 소유 객체
 - Address Balances Migration Guide → 주소 잔액 마이그레이션 가이드
+  - 유형: title-sync only
 - Accessing Data → 데이터 접근
 - action → 액션
 - Action Request → 액션 요청
 - app → 앱
 - App Examples → 앱 예시
+  - 유형: title-sync only
 - approve → 승인
 - argument → 인자
 - airdrop → 에어드롭
@@ -279,6 +281,7 @@
 - module → 모듈
 - Move Concepts → Move 개념
 - Move Best Practices → Move 모범 사례
+  - 유형: title-sync only
 - Move package → Move 패키지
 - Move testing framework → Move 테스트 프레임워크
 - multi-party computation (MPC) → 다자간 계산 (MPC)
@@ -289,6 +292,7 @@
 - non-fungible token (NFT) → 대체 불가능 토큰 (NFT)
 - NFTs → NFT
 - NFT Rental Example → NFT 대여 예시
+  - 유형: title-sync only
 - nonce → 논스
 - Networks → 네트워크
 - object → 객체
@@ -425,6 +429,7 @@
 - soulbound NFT → 소울바운드 NFT
 - soulbound NFTs → 소울바운드 NFT
 - Soulbound NFT Example → 소울바운드 NFT 예시
+  - 유형: title-sync only
 - source view → 소스 뷰
 - sponsor → 스폰서
 - stablecoin → 스테이블코인
@@ -434,8 +439,10 @@
 - Storage → 스토리지
 - Sui Architecture → Sui 아키텍처
 - Sui Developer Cheat Sheet → Sui 개발자 치트 시트
+  - 유형: title-sync only
 - Sui On-Chain Signatures Verification in Move → Move에서 Sui 온체인 서명 검증하기
 - Sui Standards Overview → Sui 표준 개요
+  - 유형: title-sync only
 - Sui Tokenomics → Sui 토크노믹스
 - SUI Wallets → SUI 지갑
 - Sui-Related Research Papers → Sui 관련 연구 논문
@@ -468,6 +475,7 @@
 - Table and Bag → Table과 Bag
 - Transaction Authentication → 트랜잭션 인증
 - Transaction Authentication Overview → 트랜잭션 인증 개요
+  - 유형: title-sync only
 - Transactions → 트랜잭션 개요
 - What is a Transaction? → 트랜잭션
 - Customizing, Testing, and Management → 커스터마이징, 테스트, 관리
@@ -568,10 +576,12 @@
 - Take Profit Stop Loss SDK → 이익 실현 및 손실 제한 SDK
 - EWMA Gas Price Penalty → EWMA 가스 가격 페널티
 - References Overview → 레퍼런스 개요
+  - 유형: title-sync only
 - Comparison → 비교
 - PTB Commands → PTB 명령
 - Deploy Dockerized Nautilus Apps to Marlin → Marlin에 Docker 기반 Nautilus 앱 배포하기
 - Exchange Integration Guide → 거래소 통합 가이드
+  - 유형: title-sync only
 - GraphQL and General-Purpose Indexer → GraphQL 및 General-purpose Indexer
   - 유형: title-sync only
 - Glossary → 용어집
@@ -582,6 +592,7 @@
 - Sui Archives → Sui 아카이브
   - 유형: title-sync only
 - Sui Framework Reference → Sui Framework 레퍼런스
+  - 유형: title-sync only
 - Sui Full Node Configuration → Sui 풀 노드 구성
   - 유형: title-sync only
 - Sui Node Monitoring → Sui 노드 모니터링
@@ -591,25 +602,39 @@
 - Sui Validators → Sui validator 가이드
   - 유형: title-sync only
 - Move References → Move 레퍼런스
+  - 유형: title-sync only
 - Localize Sui Documentation → Sui 문서 현지화
+  - 유형: title-sync only
 - Contribute to Sui Repositories → Sui 리포지토리에 기여하기
+  - 유형: title-sync only
 - Sui Contributor Covenant Code of Conduct → Sui Contributor Covenant 행동 강령
+  - 유형: title-sync only
 - Contribute to Sui Documentation → Sui 문서에 기여하기
+  - 유형: title-sync only
 - Sui Environment Setup → Sui 환경 설정
+  - 유형: title-sync only
 - Style Guide → 스타일 가이드
+  - 유형: title-sync only
 - MDX Components → MDX 컴포넌트
+  - 유형: title-sync only
 - Manifest Reference → 매니페스트 레퍼런스
+  - 유형: title-sync only
 - Package Management Migration → 패키지 관리 마이그레이션
+  - 유형: title-sync only
 - RPC Best Practices → RPC 모범 사례
 - Move Analyzer VS Code Extension → Move Analyzer VS Code 확장 프로그램
+  - 유형: title-sync only
 - Sui Full Node gRPC → Sui 풀 노드 gRPC
+  - 유형: title-sync only
 - Sui CLI Cheat Sheet → Sui CLI 치트 시트
+  - 유형: title-sync only
 - Sui Exchange Integration Guide → Sui 거래소 통합 가이드
   - 유형: title-sync only
 - Sui Trace Analysis → Sui 트레이스 분석
 - Sui Validator Alert Reference → Sui validator 알림 레퍼런스
   - 유형: title-sync only
 - zkLogin Example → zkLogin 예시
+  - 유형: title-sync only
 - zkLogin Integration → zkLogin 통합
 - Getting Started → 시작하기
 - Install Sui → Sui 설치

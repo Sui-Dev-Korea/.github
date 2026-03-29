@@ -22,7 +22,7 @@
 2. 파일명, 명령어, 식별자, 프로토콜명, 표준명
 3. 프로젝트에서 한국어 prose 안에서도 영어 유지하기로 합의한 용어
 
-문맥에 따라 번역 여부가 달라지는 일반 기술 용어는 넣지 않는다. 특정 문맥에서만 유지해야 하는 항목은 이 파일에 넣지 말고 문맥으로 판단하거나 `TRANSLATED_TERMINOLOGY.md`에 phrase-level 항목으로 관리한다.
+문맥에 따라 번역 여부가 달라지는 일반 기술 용어는 넣지 않는다. 다만 프로젝트 차원에서 한국어 prose 안에서도 영어 유지하기로 명시적으로 합의한 경우는 예외로 둘 수 있다. 특정 문맥에서만 유지해야 하는 항목은 이 파일에 넣지 말고 문맥으로 판단하거나 `TRANSLATED_TERMINOLOGY.md`에 phrase-level 항목으로 관리한다.
 
 ### Entry Format
 
@@ -32,8 +32,6 @@
 
 - ability
 - address
-- address balance
-- address balances
 - address-owned
 - Agora Finance
 - adaptive concurrency
@@ -95,7 +93,6 @@
 - DeepBookV3 SDK
 - DeepBook Margin
 - DeepBook Margin SDK
-- derived object
 - Devnet
 - Discord
 - Docusaurus
