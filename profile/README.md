@@ -14,7 +14,7 @@
 ## 🧠 수이 (Sui Core)
 - 🌐 [메인 페이지](https://sui.io/)  
 - 📚 [개발 문서](https://docs.sui.io/)
-- 📚 [개발 문서 (한국어)](https://sui-dev-korea.github.io/ko/) — 커뮤니티 번역  
+- 📚 [개발 문서 (한국어)](https://sui-dev-korea.github.io/) — 커뮤니티 번역  
 - 💻 [GitHub](https://github.com/MystenLabs/sui)  
 - ⚙️ [Sui CLI](https://docs.sui.io/references/cli/client) — 계정/트랜잭션 관리  
 - 🧰 [Sui SDKs](https://docs.sui.io/references/sui-sdks) — Typescript, Rust 등 SDK 모음  
