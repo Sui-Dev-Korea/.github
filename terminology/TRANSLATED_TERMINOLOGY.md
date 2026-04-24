@@ -1,9 +1,46 @@
-# Translated Glossary (Strictly Enforced)
-# Apply this file only when the source term is not listed in KEEP_ORIGINALITY.md.
+# Translated Terminology
+
+## Purpose
+
+이 파일은 한국어 문서에서 일관되게 번역해야 하는 용어를 정의한다.
+
+## Priority
+
+우선순위는 `KEEP_ORIGINALITY.md` > 이 파일 > 문맥 판단 순서다.
+
+## Scope
+
+이 파일은 prose와 사용자에게 보이는 UI 텍스트에 적용한다. 코드 식별자, 타입 이름, 필드 이름, CLI 옵션, 파일명, 경로, URL, explicit heading ID에는 적용하지 않는다.
+
+## Rules
+
+### Entry Format
+
+항목은 한 줄에 하나의 source form만 둔다. 의미가 여러 개인 단어는 가능하면 phrase-level 항목이나 예외 규칙으로 관리한다.
+
+### Title-Sync Entries
+
+문서 제목과 링크 텍스트 동기화를 위해 추가한 항목은 바로 다음 줄에 `- 유형: title-sync only`를 붙인다. 이런 항목은 일반 prose 번역 규칙이라기보다 구조 문서 기준의 페이지 title, 카드 title, 링크 텍스트 정합성을 유지하기 위한 것이다.
+
+## Entries
 
 - account → 계정
+- address → 주소
+- address alias → 주소 별칭
+- address aliases → 주소 별칭
+- address balance → 주소 잔액
+- address balances → 주소 잔액
+- address-owned → 주소 소유
+- address-owned object → 주소 소유 객체
+- addresses → 주소
+- Address Balances Migration Guide → 주소 잔액 마이그레이션 가이드
+  - 유형: title-sync only
+- Accessing Data → 데이터 접근
 - action → 액션
+- Action Request → 액션 요청
 - app → 앱
+- App Examples → 앱 예시
+  - 유형: title-sync only
 - approve → 승인
 - argument → 인자
 - airdrop → 에어드롭
@@ -12,14 +49,19 @@
 - architecture → 아키텍처
 - Archival Service → 아카이브 서비스
 - Archival Store → 아카이브 스토어
+- Archival Store and Service → 아카이브 스토어 및 서비스
 - asset → 자산
   - 예외: 웹 정적 리소스 문맥일 때는 리소스
 - assets → 자산
   - 예외: 웹 정적 리소스 문맥일 때는 정적 리소스
 - asset tokenization → 자산 토큰화
+- Asset Tokenization → 자산 토큰화
+- Auction → 경매
 - attestation → 증명
 - attestation document → 증명 문서
 - atmospheric pressure → 대기압
+- atomic swap → 아토믹 스왑
+- Authenticated Events → 인증된 이벤트
 - backfill → 백필
 - balance → 잔액
 - balances → 잔액
@@ -29,17 +71,25 @@
 - backloaded vesting → 백로드형 베스팅
 - backpressure → 백프레셔
 - base asset → 베이스 자산
+- Best Practices → 모범 사례
+  - 유형: title-sync only
 - binary → 바이너리
 - block → 블록
 - blocks → 블록
 - blockchain → 블록체인
 - browser → 브라우저
+- Broader Sui Ecosystem Support → Sui 생태계 전반 지원
+  - 유형: title-sync only
 - bridge → 브리지
 - bridge (verb) → 브리지하다
 - bridge committee → 브리지 위원회
 - bridge node → 브리지 노드
 - bridged → 브리지된
 - bridging → 브리징
+- Bridging Tokens → 토큰 브리징
+- Bring Your Own Store (BYOS) → 자체 스토어 사용하기 (BYOS)
+- build environment → 빌드 환경
+- Build a Custom Indexer → 커스텀 인덱서 만들기
 - borrow → 차입
 - borrower → 차입자
 - burnable → 소각 가능
@@ -50,10 +100,17 @@
 - certificate chain → 인증서 체인
 - checkpoint → 체크포인트
 - checkpoints → 체크포인트
+- Checkpoint Verification → 체크포인트 검증
+- Client App with Sui TypeScript SDK → Sui TypeScript SDK로 클라이언트 앱 만들기
 - deposit → 예치
 - cliff vesting → 클리프 베스팅
 - client → 클라이언트
 - coin → 코인
+- coin selection → 코인 선택
+- Coin/Token API comparison → Coin/Token API 비교
+- Coin Management → 코인 관리
+- Create Currencies and Tokens → 통화와 토큰 만들기
+- Create a Non-Fungible Token → 대체 불가능 토큰 만들기
 - command → 명령
 - command palette → 명령 팔레트
 - committee → 위원회
@@ -61,8 +118,11 @@
 - commission rate → 수수료율
 - commit → 커밋
 - comparison → 비교
+- Components of Sui → Sui의 구성 요소
 - concurrent pipeline → 컨커런트 파이프라인
+- config → 구성
 - configuration → 구성
+- Configure OpenID Providers → OpenID 제공자 설정
 - consensus → 합의
 - consensus proposals → 합의 제안
 - collateral → 담보
@@ -71,31 +131,53 @@
 - contribution → 기여
 - contributions → 기여
 - contribution process → 기여 절차
+- Concepts → 개념
 - Contributor Covenant → 컨트리뷰터 커버넌트
+- Cryptography → 암호학
+- cross-chain → 크로스체인
+- cursor → 커서
 - custodial wallet → 커스터디 지갑
 - custody → 수탁
+- custody provider → 수탁 제공자
 - custom RPC endpoint → 커스텀 RPC 엔드포인트
 - custom indexer → 커스텀 인덱서
 - custom indexers → 커스텀 인덱서
+- Custom Object Transfer Rules → 사용자 정의 객체 전송 규칙
+- Custom Indexer and Walrus → 커스텀 인덱서와 Walrus
+- custom indexing → 커스텀 인덱싱
+- Custom Indexing Framework → 커스텀 인덱싱 프레임워크
 - database snapshot → 데이터베이스 스냅샷
+- Database Snapshots → 데이터베이스 스냅샷
+  - 유형: title-sync only
 - decentralized application (dApp) → 탈중앙화 애플리케이션 (dApp)
 - decentralized autonomous organization (DAO) → 탈중앙화 자율 조직 (DAO)
 - decision rule → 결정 규칙
 - delegated proof-of-stake (DPoS) → 위임 지분 증명 (DPoS)
 - dealer → 딜러
+- derived object → 파생 객체
+- Derived Objects → 파생 객체
 - derivation path → 파생 경로
 - digest → 다이제스트
 - disassembly view → 디스어셈블리 뷰
 - distributed key generation (DKG) → 분산 키 생성 (DKG)
 - distributed tracing → 분산 트레이싱
+- Distributed Counter → 분산 카운터
 - domain separator → 도메인 구분자
 - dry run → 드라이 런
+- dual-signed transaction → 이중 서명된 트랜잭션
+- dynamic fields → 동적 필드
+- Dynamic (Object) Fields → 동적 (객체) 필드
+- Elliptic Curve Verifiable Random Function → 타원 곡선 검증 가능 랜덤 함수
 - embed → 임베드
 - endpoint → 엔드포인트
 - endpoints → 엔드포인트
+- epoch → 에포크
+- epochs → 에포크
+- Epochs, Equivocation, and Reconfiguration → 에포크, equivocation, 재구성
 - entity → 엔티티
 - ephemeral public key → 임시 공개 키
 - event → 이벤트
+- Ethereum -> Sui → Ethereum에서 Sui로
 - example → 예시
 - examples → 예시
 - exchange → 거래소
@@ -107,11 +189,14 @@
 - fallback mechanism → 폴백 메커니즘
 - feature flag → 기능 플래그
 - field mask → 필드 마스크
-- finality / finalized / finalizing → 확정성/확정된/확정
+- finality → 확정성
+- finalized → 확정된
+- finalizing → 확정 중
+- flash loan → 플래시 론
+- flash loans → 플래시 론
 - formal snapshot → 포멀 스냅샷
 - frontend → 프론트엔드
 - frontends → 프론트엔드
-- frontmatter → frontmatter
 - fractional NFT → 분할 NFT
 - function → 함수
 - functions → 함수
@@ -123,47 +208,73 @@
 - gas → 가스
 - gas budget → 가스 예산
 - gas fee → 가스 수수료
+- gas fees → 가스 수수료
 - gas price → 가스 가격
 - gas price survey → 가스 가격 조사
 - gas smashing → 가스 스매싱
 - gas sponsor → 가스 스폰서
 - gas station → 가스 스테이션
 - gas station operator → 가스 스테이션 운영자
+- Gaming on Sui → Sui에서의 게이밍
 - genesis → 제네시스
+- Genesis → 제네시스
 - getter → 게터
 - governance → 거버넌스
 - governance token → 거버넌스 토큰
+- Guides → 가이드
+  - 유형: title-sync only
+- GraphQL for Sui RPC (Beta) → Sui RPC용 GraphQL (베타)
 - graded vesting → 점진적 베스팅
+- Hashing → 해싱
 - health check → 헬스 체크
 - helper → 헬퍼
 - hybrid vesting → 하이브리드 베스팅
 - immediate vesting → 즉시 베스팅
+- immutable object → 불변 객체
+- Immutable Objects → 불변 객체
 - indexer → 인덱서
+- What is Nautilus? → Nautilus란?
+- Indexer Data and Integration → 인덱서 데이터 및 통합
+- Indexer Pipeline Architecture → 인덱서 파이프라인 아키텍처
+- Indexer Runtime and Performance → 인덱서 런타임 및 성능
+- In-Game Currency → 인게임 통화
+- in-game currency → 인게임 통화
+- in-game token → 인게임 토큰
 - ingestion → 수집
 - inlay hint → 인레이 힌트
 - input → 입력
 - interface → 인터페이스
 - interfaces → 인터페이스
 - intent → 인텐트
+- Intents for Validation → 검증용 인텐트
 - intent message → 인텐트 메시지
 - intent signing → 인텐트 서명
+- Intent Signing → 인텐트 서명
 - key derivation → 키 파생
 - key derivation path → 키 파생 경로
 - key derivation scheme → 키 파생 체계
 - key scheme → 키 체계
 - latency → 지연 시간
 - lender → 대여자
+- Loyalty Tokens → 로열티 토큰
+- loyalty token → 로열티 토큰
 - limit order → 지정가 주문
 - linear vesting → 선형 베스팅
+- liquid staking → 유동 스테이킹
 - liquidity token → 유동성 토큰
 - liquidity → 유동성
+- live object set → 활성 객체 집합
 - load balancer → 로드 밸런서
+- local fee market → 로컬 수수료 시장
 - local network → 로컬 네트워크
 - localization → 현지화
 - localize → 현지화하다
 - logic → 로직
+- Logging, Tracing, Metrics, and Observability → 로깅, 트레이싱, 메트릭, observability
+  - 유형: title-sync only
 - maker → 메이커
 - manifest → 매니페스트
+- Meta and Pricing Oracle → 메타 및 가격 오라클
 - migration → 마이그레이션
 - migrations → 마이그레이션
 - market order → 시장가 주문
@@ -171,6 +282,7 @@
 - method → 방법
   - 예외: 함수의 의미일 때는 함수로 번역
 - Metadata → 메타데이터
+- Nautilus Design → Nautilus 설계
 - mid price → 중간 가격
 - milestone-based vesting → 마일스톤 기반 베스팅
 - mint → 민트
@@ -180,32 +292,64 @@
 - moderator → 모더레이터
 - moderators → 모더레이터
 - module → 모듈
-  - 예외: 링크 있을 때는 원문 module 유지
+- Move Concepts → Move 개념
+- Move Best Practices → Move 모범 사례
+  - 유형: title-sync only
 - Move package → Move 패키지
 - Move testing framework → Move 테스트 프레임워크
 - multi-party computation (MPC) → 다자간 계산 (MPC)
 - multi-signature (multisig) → 다중 서명 (multisig)
 - multisig → 다중 서명
+- Multisig → 다중 서명
+- Multisig Authentication → 다중 서명 인증
 - non-fungible token (NFT) → 대체 불가능 토큰 (NFT)
+- NFTs → NFT
+- NFT Rental Example → NFT 대여 예시
+  - 유형: title-sync only
 - nonce → 논스
+- Networks → 네트워크
+- object → 객체
+- object ID → 객체 ID
+- Operator Guides → 운영자 가이드
+  - 유형: title-sync only
+- Object and Package Versioning → 객체 및 패키지 버전 관리
+- Object Transfer Policies → 객체 전송 정책
+- Object-Based Local Fee Markets → 객체 기반 로컬 수수료 시장
+- Objects → 객체
 - off chain → 오프체인
 - off-chain → 오프체인
 - offline signing → 오프라인 서명
+- Offline Signing → 오프라인 서명
 - on chain → 온체인
 - on-chain → 온체인
+- On-Chain Primitives → 온체인 프리미티브
+- On-Chain Randomness → 온체인 랜덤니스
 - on-chain time → 온체인 시간
 - oracle → 오라클
+- Oracles → 오라클
 - overhead → 오버헤드
 - owner → 소유자
 - ownership → 소유권
+- owned object → 소유 객체
+- party object → Party 객체
+- Party Objects → Party 객체
 - package → 패키지
 - package management → 패키지 관리
 - package manager → 패키지 관리자
 - package managers → 패키지 관리자
+- Packages → 패키지
+- What are Move Packages? → Move 패키지란?
+- Move Package Management → Move 패키지 관리
+- Upgrading Packages → 패키지 업그레이드
+- Custom Upgrade Policies → 사용자 정의 업그레이드 정책
+- Automated Address Management → 자동 주소 관리
 - page token → 페이지 토큰
+- package object → 패키지 객체
 - passkey → 패스키
 - payload → 페이로드
 - pending validator → 대기 중인 validator
+- permissionless → 무허가
+- permissionlessly → 허가 없이
 - performance-based vesting → 성과 기반 베스팅
 - platform configuration register (PCR) → 플랫폼 구성 레지스터 (PCR)
 - point lookup → 포인트 조회
@@ -225,6 +369,9 @@
 - prerequisites → 사전 요구 사항
 - proposal → 제안
 - proposals → 제안
+- programmable transaction block (PTB) → 프로그래머블 트랜잭션 블록 (PTB)
+- Protocol Upgrades → 프로토콜 업그레이드
+- Prevent Bots → 봇 방지
 - public key → 공개 키
 - pull request (PR) → 풀 리퀘스트 (PR)
 - quantity → 수량
@@ -239,13 +386,23 @@
 - release notes → 릴리스 노트
 - release stage → 릴리스 단계
 - reference gas price → 참조 가스 가격
+- referral → 리퍼럴
+- referrals → 리퍼럴
+- referrer → 리퍼러
+- remote store → 원격 스토어
+- Running a Remote Store → 원격 스토어 실행하기
+  - 유형: title-sync only
+- Running the Archival Store and Service → 아카이브 스토어 및 서비스 실행하기
+  - 유형: title-sync only
 - regulated coin → 규제된 코인
 - regulated coins → 규제된 코인
+- Regulated Currency and Deny List → 규제 통화와 Deny List
 - recovery phrase → 복구 구문
 - review reader → 리뷰 열람자
 - review readers → 리뷰 열람자
 - reviewer → 리뷰어
 - reviewers → 리뷰어
+- Research Papers → 연구 논문
 - repay → 상환
 - rebate → 리베이트
 - rebates → 리베이트
@@ -254,8 +411,13 @@
 - result → 결과
 - reward → 보상
 - rewards → 보상
+- Rules → 규칙
 - route → 라우트
 - routing → 라우팅
+- round trip → 왕복
+- root object bound → 루트 객체 바운드
+- SDK Integrations → SDK 통합
+  - 유형: title-sync only
 - retention → 리텐션
 - retention policy → 리텐션 정책
 - retention window → 리텐션 윈도우
@@ -264,24 +426,56 @@
 - scaffold → 스캐폴드
 - schema → 스키마
 - schemas → 스키마
+- Security → 보안
 - secret recovery phrase → 비밀 복구 구문
 - self-custodial wallet → 셀프 커스터디 지갑
 - sender → 송신자
 - service owner → 서비스 소유자
 - service owners → 서비스 소유자
-- sequence/sequencing/sequencer → 시퀀스/시퀀싱/시퀀서
+- sequence → 시퀀스
+- sequencing → 시퀀싱
+- sequencer → 시퀀서
 - sequential pipeline → 시퀀셜 파이프라인
 - serverless function → 서버리스 함수
+- shared object → 공유 객체
+- Shared Objects → 공유 객체
 - signature → 서명
+- Signatures → 서명
+- Using Nautilus → Nautilus 사용하기
+- Signature Requirements → 서명 요구 사항
 - signature scheme → 서명 방식
 - smart contract → 스마트 계약
+- social login → 소셜 로그인
+- Solana -> Sui → Solana에서 Sui로
 - soul-bound → 소울바운드
 - soulbound NFT → 소울바운드 NFT
 - soulbound NFTs → 소울바운드 NFT
+- Soulbound NFT Example → 소울바운드 NFT 예시
+  - 유형: title-sync only
 - source view → 소스 뷰
 - sponsor → 스폰서
+- sponsored transaction → 스폰서드 트랜잭션
+- sponsored transactions → 스폰서드 트랜잭션
 - stablecoin → 스테이블코인
+- Stablecoins on Sui → Sui의 스테이블코인
+- stake → 스테이크
+  - 예외: 동사로 쓰일 때는 스테이킹하다
+- Staking and Unstaking → 스테이킹 및 언스테이킹
+- staking → 스테이킹
+- staking pool → 스테이킹 풀
+- Spending → 지출
+- Storage → 스토리지
+- Sui Architecture → Sui 아키텍처
+- Sui Developer Cheat Sheet → Sui 개발자 치트 시트
+  - 유형: title-sync only
+- Sui On-Chain Signatures Verification in Move → Move에서 Sui 온체인 서명 검증하기
+- Sui Standards Overview → Sui 표준 개요
+  - 유형: title-sync only
+- Sui Tokenomics → Sui 토크노믹스
+- SUI Wallets → SUI 지갑
+- Sui-Related Research Papers → Sui 관련 연구 논문
 - stake reward distribution rule → 스테이크 보상 분배 규칙
+- state sync → 상태 동기화
 - state snapshot → 상태 스냅샷
 - storage fund → 스토리지 기금
 - storage price → 스토리지 가격
@@ -292,12 +486,47 @@
 - subscription API → 구독 API
 - supermajority → 초과 정족수
 - swap → 스왑
+- trustless swap → 트러스트리스 스왑
+- Trustless Swap → 트러스트리스 스왑
+- Simulating References → 참조 시뮬레이션
+- syntax → 구문
 - taker → 테이커
 - tallying rule → 집계 규칙
+- template → 템플릿
+- template engine → 템플릿 엔진
+- template string → 템플릿 문자열
+- threshold → 임계값
 - threshold signature → 임계값 서명
 - throughput → 처리량
+- Token Vesting Strategies → 토큰 베스팅 전략
+- Transferring Objects → 객체 전송하기
+- Transfer-to-Object → 객체로 전송
+- Transfer to Object → 객체로 전송
+- transfer policy → 전송 정책
+- Table and Bag → Table과 Bag
+- transaction → 트랜잭션
+- transaction digest → 트랜잭션 다이제스트
+- Transaction Authentication → 트랜잭션 인증
+- Transaction Authentication Overview → 트랜잭션 인증 개요
+  - 유형: title-sync only
+- Transactions → 트랜잭션 개요
+- What is a Transaction? → 트랜잭션
+- Customizing, Testing, and Management → 커스터마이징, 테스트, 관리
+- Life of a Transaction → 트랜잭션 생명주기
+- Sponsored Transactions → 스폰서드 트랜잭션
+- Gas Smashing → 가스 스매싱
+- Programmable Transaction Blocks → PTB 개요
+- What is a PTB? → 프로그래머블 트랜잭션 블록 (PTB)
+- Building Transactions → PTB 구성하기
+- Inputs and Results → 입력과 결과
+- Signing and Sending Transactions → 트랜잭션 서명 및 전송
+- Address Aliases → 주소 별칭
+- Keys and Addresses → 키와 주소
 - token → 토큰
+- Token Policy → 토큰 정책
 - tokens → 토큰
+- tokenomics → 토크노믹스
+- Tokenomics on Sui → Sui의 토크노믹스
 - transfer → 전송
   - 예외: ownership type이 다른 유형으로 바뀌는 문맥일 때는 전환
 - transfer receipt → 전송 영수증
@@ -305,23 +534,155 @@
 - trust model → 신뢰 모델
 - trusted computing base → 신뢰 컴퓨팅 기반
 - trusted execution environment (TEE) → 신뢰 실행 환경 (TEE)
+- Troubleshooting Common Errors → 자주 발생하는 오류 해결하기
 - type → 타입
 - type coercion → 타입 강제 변환
+- unwrap → 언래핑하다
 - upgrade → 업그레이드
-- usage → 사용 예
+- Updating a Full Node → 풀 노드 업데이트하기
+  - 유형: title-sync only
 - utilization → 이용률
+- Using Events → 이벤트 사용하기
+- Using GraphQL RPC → GraphQL RPC 사용하기
+- Using gRPC → gRPC 사용하기
+- Using the Archival Service → 아카이브 서비스 사용하기
+- Access On-Chain Time → 온체인 시간 접근하기
+- Sui Object Model → Sui 객체 모델
+- Types of Object Ownership → 객체 소유권 유형
+- wrap → 래핑하다
+- wrapped → 래핑된
+- wrapped object → 래핑된 객체
+- wrapper → 래퍼
+- wrapping → 래핑
+- Address-Owned Objects → 주소 소유 객체
+- Wrapped Objects → 래핑된 객체
 - preinstalled → 사전 설치된
+- validator committee → validator 위원회
 - validator candidate → validator 후보
 - validator set → validator 세트
+- Validator Deployment and Configuration → validator 배포 및 구성
+  - 유형: title-sync only
+- Validator Node Management → validator 노드 관리
+  - 유형: title-sync only
+- Validator Node Rewards → validator 노드 보상
+  - 유형: title-sync only
+- Validator Node Tools → validator 노드 도구
+  - 유형: title-sync only
+- Validator Signatures → validator 서명
 - vesting → 베스팅
 - vesting strategy → 베스팅 전략
+- verifiable random function (VRF) → 검증 가능 랜덤 함수 (VRF)
 - versioning scheme → 버전 관리 체계
 - verify → 검증
 - voting power → 투표권
 - wallet → 지갑
+- Wallet Integration Options → 지갑 통합 옵션
+  - 유형: title-sync only
+- Wallets → 지갑
 - watermark → 워터마크
+- Encrypt Enclave Secrets with Seal → Seal로 enclave secret 암호화하기
+- What is zkLogin? → zkLogin이란?
 - withdraw → 출금
 - zero-knowledge proof → 영지식 증명
 - zero-knowledge succinct non-interactive argument of knowledge (zk-SNARK) → 영지식 간결 비대화형 지식 증명 (zk-SNARK)
+- ZK proof → ZK 증명
 - interest rate → 금리
 - interest rates → 금리
+- Contract Information → 컨트랙트 정보
+- DeepBook Margin Indexer → DeepBook Margin 인덱서
+- DeepBookV3 Indexer → DeepBookV3 인덱서
+- Design → 설계
+- Flash Loans → 플래시 론
+- Flash Loans SDK → 플래시 론 SDK
+- Maintainer → 메인터이너
+- Maintainer SDK → 메인터이너 SDK
+- Margin Manager → 마진 매니저
+- Margin Manager SDK → 마진 매니저 SDK
+- Margin Pool → 마진 풀
+- Margin Pool SDK → 마진 풀 SDK
+- Margin Risks → 마진 위험
+- Orders → 주문
+- Orders SDK → 주문 SDK
+- Permissionless Pool Creation → 무허가 풀 생성
+- Pools SDK → 풀 SDK
+- Query the Pool → 풀 조회
+- Referrals → 리퍼럴
+- Risk Ratio → 리스크 비율
+- Staking and Governance → 스테이킹 및 거버넌스
+- Staking and Governance SDK → 스테이킹 및 거버넌스 SDK
+- Supply Referral → 공급 리퍼럴
+- Swaps → 스왑
+- Take Profit Stop Loss → 이익 실현 및 손실 제한
+- Take Profit Stop Loss SDK → 이익 실현 및 손실 제한 SDK
+- EWMA Gas Price Penalty → EWMA 가스 가격 페널티
+- References Overview → 레퍼런스 개요
+  - 유형: title-sync only
+- Comparison → 비교
+- PTB Commands → PTB 명령
+- Deploy Dockerized Nautilus Apps to Marlin → Marlin에 Docker 기반 Nautilus 앱 배포하기
+- Exchange Integration Guide → 거래소 통합 가이드
+  - 유형: title-sync only
+- GraphQL and General-Purpose Indexer → GraphQL 및 General-purpose Indexer
+  - 유형: title-sync only
+- Glossary → 용어집
+- Release Notes → 릴리스 노트
+- Sui Bridge Validator Node Configuration → Sui Bridge validator 노드 구성
+  - 유형: title-sync only
+- Sui and Community SDKs → Sui 및 커뮤니티 SDK
+- Sui Archives → Sui 아카이브
+  - 유형: title-sync only
+- Sui Framework Reference → Sui Framework 레퍼런스
+  - 유형: title-sync only
+- Sui Full Node Configuration → Sui 풀 노드 구성
+  - 유형: title-sync only
+- Sui Node Monitoring → Sui 노드 모니터링
+  - 유형: title-sync only
+- SuiPlay0X1 Development Guide for Game Developers → 게임 개발자를 위한 SuiPlay0X1 개발 가이드
+  - 유형: title-sync only
+- Sui Validators → Sui validator 가이드
+  - 유형: title-sync only
+- Move References → Move 레퍼런스
+  - 유형: title-sync only
+- Localize Sui Documentation → Sui 문서 현지화
+  - 유형: title-sync only
+- Contribute to Sui Repositories → Sui 리포지토리에 기여하기
+  - 유형: title-sync only
+- Sui Contributor Covenant Code of Conduct → Sui Contributor Covenant 행동 강령
+  - 유형: title-sync only
+- Contribute to Sui Documentation → Sui 문서에 기여하기
+  - 유형: title-sync only
+- Sui Environment Setup → Sui 환경 설정
+  - 유형: title-sync only
+- Style Guide → 스타일 가이드
+  - 유형: title-sync only
+- MDX Components → MDX 컴포넌트
+  - 유형: title-sync only
+- Manifest Reference → 매니페스트 레퍼런스
+  - 유형: title-sync only
+- Package Management Migration → 패키지 관리 마이그레이션
+  - 유형: title-sync only
+- RPC Best Practices → RPC 모범 사례
+- Move Analyzer VS Code Extension → Move Analyzer VS Code 확장 프로그램
+  - 유형: title-sync only
+- Sui Full Node gRPC → Sui 풀 노드 gRPC
+  - 유형: title-sync only
+- Sui CLI Cheat Sheet → Sui CLI 치트 시트
+  - 유형: title-sync only
+- Sui Exchange Integration Guide → Sui 거래소 통합 가이드
+  - 유형: title-sync only
+- Sui Trace Analysis → Sui 트레이스 분석
+- Sui Validator Alert Reference → Sui validator 알림 레퍼런스
+  - 유형: title-sync only
+- zkLogin Example → zkLogin 예시
+  - 유형: title-sync only
+- zkLogin Integration → zkLogin 통합
+- Getting Started → 시작하기
+- Install Sui → Sui 설치
+- Configure a Sui Client → Sui 클라이언트 설정
+- Create a Sui Address → Sui 주소 만들기
+- Get SUI from Faucet → Faucet에서 SUI 받기
+- Install from Source → 소스에서 설치
+- Install from Binaries → 바이너리로 설치
+- Connecting to a Local Network → 로컬 네트워크 연결
+- Connect a Frontend to a Move Package → Move 패키지에 프런트엔드 연결
+- Next Steps → 다음 단계

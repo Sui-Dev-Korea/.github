@@ -1,42 +1,61 @@
-# Keep the original text as is (do not translate it); if it appears at the beginning of a sentence, capitalize the first letter
-# Entries in this file take precedence over TRANSLATED_TERMINOLOGY.md when the same source term appears in both files.
-# List only fixed names, branded terms, and concepts that must remain fully in English.
-# Descriptive compounds with established Korean renderings belong in TRANSLATED_TERMINOLOGY.md instead.
+# Keep Originality
+
+## Purpose
+
+이 파일은 한국어 문서에서도 원문 영어를 그대로 유지해야 하는 항목을 정의한다.
+
+## Priority
+
+이 파일의 항목은 `TRANSLATED_TERMINOLOGY.md`보다 우선한다.
+
+## Scope
+
+이 파일은 한국어 문서에서도 영어 원문을 그대로 유지해야 하는 항목에 적용한다.
+
+## Rules
+
+### Inclusion Criteria
+
+이 파일에는 다음 항목만 넣는다.
+
+1. 고정 이름과 브랜드명
+2. 파일명, 명령어, 식별자, 프로토콜명, 표준명
+3. 프로젝트에서 한국어 prose 안에서도 영어 유지하기로 합의한 용어
+
+문맥에 따라 번역 여부가 달라지는 일반 기술 용어는 넣지 않는다. 다만 프로젝트 차원에서 한국어 prose 안에서도 영어 유지하기로 명시적으로 합의한 경우는 예외로 둘 수 있다. 특정 문맥에서만 유지해야 하는 항목은 이 파일에 넣지 말고 문맥으로 판단하거나 `TRANSLATED_TERMINOLOGY.md`에 phrase-level 항목으로 관리한다.
+
+### Entry Format
+
+항목은 한 줄에 하나의 source form만 둔다. 여러 형태를 `/`로 묶지 않는다.
+
+## Entries
 
 - ability
-- address
-- address balance
-- address balances
-- address alias
-- address aliases
-- address-owned
-- address-owned object
 - Agora Finance
 - adaptive concurrency
 - availableRange
 - API
-- atomic swap
 - AWS
-- Authenticated Events
 - Bag
+- Blackjack
 - BCS
 - BLS
 - BLS G1
 - BLS G2
 - BLS12-381
+- BalanceManager
+- BalanceManager SDK
 - Blake2b-256
 - Beamable
 - Bigtable
 - Blake2b
 - Blob
 - checkpoint blob
-- build environment
 - bounded ingestion
 - Bullshark
 - BYOS
 - Buf CLI
 - canonical balance system
-- capability/ability
 - CAPTCHA
 - Carousel
 - CFRG
@@ -51,17 +70,13 @@
 - Cloudflare
 - Coin Flip
 - Coin Registry
-- coin selection
-- composable / composability
+- Coin Standard
+- composable
+- composability
 - Consistent Store
-- config
 - Counter NFT
 - Crowdin
-- cross-chain
-- cursor
 - Currency Standard
-- custom indexing
-- custody provider
 - Database store
 - dead band
 - deny list
@@ -70,14 +85,14 @@
 - dApp Kit
 - DeFi
 - DeepBookV3
-- derived object
+- DeepBookV3 SDK
+- DeepBook Margin
+- DeepBook Margin SDK
 - Devnet
 - Discord
 - Docusaurus
 - download_private.sh
-- dual-signed transaction
 - dynamic display
-- dynamic fields
 - Ed25519
 - heterogeneous map
 - homogeneous map
@@ -91,7 +106,6 @@
 - enum
 - equivocation
 - EventStreamHead
-- epoch
 - ephemeral publication
 - escrow
 - ERC-1155
@@ -102,8 +116,6 @@
 - faucet
 - FieldMask
 - fill fraction
-- flash loan
-- flash loans
 - free-to-play (F2P)
 - FundsWithdrawalArg
 - funds accumulator
@@ -122,12 +134,10 @@
 - grpcurl
 - HammerHead
 - HAProxy
+- Hello, World!
 - ID
-- immutable object
 - in-flight query
 - introspection
-- in-game currency
-- in-game token
 - initial coin offering (ICO)
 - IntelliJ IDEA
 - Jaeger
@@ -138,17 +148,13 @@
 - JWT
 - Keccak256
 - Kiosk
-- live object set
 - Kiosk Apps
 - Kiosk Apps API
 - LedgerService
-- liquid staking
 - Light Client
 - local faucet
-- local fee market
 - Localnet
 - loyalty points
-- loyalty token
 - liveness
 - Mainnet
 - Merkle Mountain Range (MMR)
@@ -172,15 +178,17 @@
 - Mysticeti
 - Mysticeti-C
 - Mysticeti-FPC
+- Nautilus
 - Narwhal
 - NextJS
 - Node.js
+- NFT
 - OAuth
 - OAuth client
 - OCS
-- object
-- object ID
 - observability
+- Object Display V1
+- Object Display V2
 - OpenID Connect
 - OpenWeather API
 - OpenWeatherMap API
@@ -188,12 +196,9 @@
 - one-per-key uniqueness
 - One-Time Witness
 - One-Time Witness (OTW)
-- owned object
-- package object
-- party object
 - peer-to-peer (P2P)
-- permissionless
-- permissionlessly
+- Payment Kit Standard
+- Permissioned Asset Standard
 - geoname ID
 - Playtron
 - Playtron GameOS
@@ -203,81 +208,74 @@
 - PoolRegistry
 - PostgreSQL
 - Prettier
-- primitive
-- programmable transaction block (PTB)
 - Prometheus
 - pruning
 - R1CS
 - ReadonlyWalletAccount
 - React
-- remote store
 - redirect URI
 - Referent
 - Ristretto255
 - reCAPTCHA
-- referral
-- referrals
-- referrer
+- Review Rating
 - Reviews Rating
 - RocksDB
 - RPC
-- root object bound
-- round trip
+- Rust SDK
 - RFC 3339
 - RFC6979
 - rug-pull
-- royalty / royalties
+- royalty
+- royalties
 - Rust
 - SDK
 - Secp256k1
 - Secp256r1
+- Sagat
 - SHA-512
 - SHA2-256
 - SHA3-256
 - safety delay
-- secondary sale / secondary sales
+- secondary sale
+- secondary sales
 - sessionStorage
-- shared object
 - Shinami
 - SIP
 - single sign-on (SSO)
 - single-owner fastpath
 - Snagit
-- social login
-- sponsored transaction
-- stake/staking
-- staking pool
-- state sync
 - Sui Bridge
 - Sui CLI
 - Sui Client CLI
+- Sui Client PTB CLI
 - Sui dApp Kit
+- Sui Framework
+- Sui Keytool CLI
+- Sui Kiosk
 - Sui Lutris
+- Sui Move CLI
 - Sui Object Display
+- Sui Replay CLI
+- Sui RPC
+- Sui Stack
+- Sui Weather Oracle
+- Sui Validator CLI
 - Slush
 - sui-tool
 - SuiJSON
 - SuiLink
 - SuiPlay0X1
 - suiup
-- syntax
 - Table
 - TanStack Query
-- template
-- threshold
 - codegen
-- template engine
-- template string
 - Testnet
 - Tether
+- Tic-Tac-Toe
 - Token Exchange URL
 - token generation event (TGE)
-- trustless swap
 - Tokio
-- transaction
-- transaction digest
-- transfer policy
-- Transfer-to-Object
+- Turnip Town
 - Tusk
 - Twins
 - TypeScript
@@ -290,7 +288,6 @@
 - validator
 - VecMap
 - Vector
-- verifiable random function (VRF)
 - Vite
 - witness
 - zk-SNARK
@@ -305,12 +302,7 @@
 - React Native
 - Wormhole Connect
 - Wormhole Portal Bridge
-- wrap/wrapped/wrapping/unwrap/wrapper
-- wrapped
-- wrapped object
 - Zef
-- ZK proof
 - ZK Proving Service
 - zkey
-- zk-SNARK
 - zkLogin
