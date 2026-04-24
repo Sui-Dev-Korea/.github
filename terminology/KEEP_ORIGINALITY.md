@@ -35,6 +35,8 @@
 - adaptive concurrency
 - availableRange
 - API
+- Awesome Sui
+- Awesome Sui Gaming
 - AWS
 - Bag
 - Blackjack
@@ -187,6 +189,7 @@
 - OAuth client
 - OCS
 - observability
+- Object Display
 - Object Display V1
 - Object Display V2
 - OpenID Connect
