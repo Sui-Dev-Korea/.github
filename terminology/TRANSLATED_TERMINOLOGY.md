@@ -29,11 +29,13 @@
 - address alias → 주소 별칭
 - address aliases → 주소 별칭
 - address balance → 주소 잔액
+  - 예외: SIP-58의 정식 기술명 또는 대문자 표기 `Address Balances`, `Sui Address Balances`의 일부일 때는 원문 유지
 - address balances → 주소 잔액
+  - 예외: SIP-58의 정식 기술명 또는 대문자 표기 `Address Balances`, `Sui Address Balances`의 일부일 때는 원문 유지
 - address-owned → 주소 소유
 - address-owned object → 주소 소유 객체
 - addresses → 주소
-- Address Balances Migration Guide → 주소 잔액 마이그레이션 가이드
+- Address Balances Migration Guide → Address Balances 마이그레이션 가이드
   - 유형: title-sync only
 - Accessing Data → 데이터 접근
 - action → 액션
