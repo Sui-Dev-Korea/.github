@@ -33,6 +33,8 @@
 - ability
 - Agora Finance
 - adaptive concurrency
+- Address Balances
+- Address Balances Move API
 - availableRange
 - API
 - Awesome Sui
@@ -247,6 +249,7 @@
 - single sign-on (SSO)
 - single-owner fastpath
 - Snagit
+- Sui Address Balances
 - Sui Bridge
 - Sui CLI
 - Sui Client CLI
